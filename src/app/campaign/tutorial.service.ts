@@ -16,7 +16,7 @@ export class TutorialService {
   }
 
   missions(): any {
-    return this.http.get('../../assets/camt.json')
+    return this.http.get('./assets/camt.json')
       .pipe(map(res =>
         res.json().filter(value=>
           value.key.includes('_NAME')
@@ -25,7 +25,7 @@ export class TutorialService {
   }
 
   items(id: string): any {
-    return this.http.get('../../assets/camt.json')
+    return this.http.get('./assets/camt.json')
       .pipe(map(res =>
         res.json().filter(value=> value.key.includes(id))
        ))

@@ -16,7 +16,7 @@ export class EncounterService {
   }
 
   encounters(): any {
-    return this.http.get('../../assets/tasks.json')
+    return this.http.get('./assets/tasks.json')
       .pipe(map(res =>
         res.json().filter(value=>
           value.key.includes('_NAME')
@@ -26,7 +26,7 @@ export class EncounterService {
   }
 
   items(id: string): any {
-    return this.http.get('../../assets/tasks.json')
+    return this.http.get('./assets/tasks.json')
       .pipe(map(res =>
         res.json().filter(value=> value.key.includes(id))
        ))
