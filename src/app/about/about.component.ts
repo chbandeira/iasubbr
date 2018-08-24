@@ -1,6 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { Http } from '@angular/http';
-import { map } from 'rxjs/operators';
 
 @Component({
   selector: 'iasub-about',
@@ -9,14 +7,9 @@ import { map } from 'rxjs/operators';
 })
 export class AboutComponent implements OnInit {
 
-  version: string
-
-  constructor(private http: Http) {
+  constructor() {
   }
 
-  ngOnInit() {
-    this.http.get('./package.json')
-      .pipe(map(res => res.json())).subscribe(res => this.version = res.version)
-  }
+  ngOnInit() { }
 
 }
