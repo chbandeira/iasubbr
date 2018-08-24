@@ -1,0 +1,31 @@
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item active" aria-current="page"><a routerLink="../../list" [innerHTML]="campaign.nameCampaign"></a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{campaign.nameNav}}</li>
+  </ol>
+</nav>
+
+<div class="content-wrapper">
+  <div class="container">
+    <div *ngFor="let item of campaign.items">
+      <ngb-tabset>
+        <ngb-tab>
+          <ng-template ngbTabTitle><b>EN</b></ng-template>
+          <ng-template ngbTabContent>
+            <p class="p-2 bg-white" [innerHTML]="item.en"></p>
+          </ng-template>
+        </ngb-tab>
+        <ngb-tab>
+          <ng-template ngbTabTitle><b>PT</b></ng-template>
+          <ng-template ngbTabContent class="bg-outline-dark">
+            <p class="p-2 bg-white" [innerHTML]="item.pt"></p>
+          </ng-template>
+        </ngb-tab>
+        <ngb-tab title="{{item.key}}" [disabled]="true">
+          <ng-template ngbTabContent>
+          </ng-template>
+        </ngb-tab>
+      </ngb-tabset>
+    </div>
+  </div>
+</div>

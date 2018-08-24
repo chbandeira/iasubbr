@@ -1,0 +1,12 @@
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item active" aria-current="page" [innerHTML]="campaign.nameCampaign"></li>
+  </ol>
+</nav>
+
+<div class="list-group">
+  <a class="list-group-item bg-secondary text-white"><b>{{campaign.nameList}}</b></a>
+  <div *ngFor="let item of campaign.items">
+      <a [routerLink]="['../dialogs', item.key]" class="list-group-item list-group-item-action">{{item.en}}</a>
+  </div>
+</div>

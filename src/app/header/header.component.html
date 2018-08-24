@@ -1,0 +1,20 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="/">
+    <img src="../../assets/img/Death-Star-icon-white.png" class="d-inline-block align-top"/>
+    IAsubBR
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsDefault"
+    aria-controls="navbarsDefault" aria-expanded="false" aria-label="Toggle navigation"
+    (click)="isCollapsed = !isCollapsed">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarsDefault" [ngbCollapse]="!isCollapsed">
+    <div class="navbar-nav">
+      <a class="nav-link" routerLinkActive="active" [routerLink]="['/campaign-t', 'tutorial']" (click)="isCollapsed = !isCollapsed"><i>Legends of the Alliance</i> Tutorial</a>
+      <a class="nav-link" routerLinkActive="active" [routerLink]="['/campaign-1', 'freedom-fighter']" (click)="isCollapsed = !isCollapsed">Flight of the <i>Freedom Fighter</i></a>
+      <a class="nav-link" routerLinkActive="active" [routerLink]="['/campaign-2', 'jabba']" (click)="isCollapsed = !isCollapsed">Jabba's Realm</a>
+      <a class="nav-link" routerLinkActive="active" [routerLink]="['/tasks', 'encouters']" (click)="isCollapsed = !isCollapsed">Encouters</a>
+      <a class="nav-link" routerLinkActive="active" routerLink="/about" (click)="isCollapsed = !isCollapsed">Sobre</a>
+    </div>
+  </div>
+</nav>
