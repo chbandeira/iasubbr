@@ -15,7 +15,7 @@ export class AboutComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.http.get('../../package.json')
+    this.http.get('./package.json')
       .pipe(map(res => res.json())).subscribe(res => this.version = res.version)
   }
 
