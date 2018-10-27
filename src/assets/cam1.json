@@ -7,27 +7,27 @@
   {
     "key": "M_01_DESC",
     "en": "<i>The Rebellion scrambles to evacuate its base on Yavin 4 before the Empire can send reinforcements following the destruction of the Death Star. Will you escape with your lives?</i>",
-    "pt": "<i> A Rebelião luta para evacuar sua base em Yavin 4 antes que o Império possa enviar reforços após a destruição da Estrela da Morte. Você vai escapar com suas vidas? </i>"
+    "pt": "<i> A Rebelião luta para evacuar sua base em Yavin 4 antes que o Império possa enviar reforços após a destruição da Estrela da Morte. Vocês vão escapar com suas vidas? </i>"
   },
   {
     "key": "M_01_MINOR_PERIL_1",
     "en": "<b>Minor Peril</b><br/><br/><i>The stress of the battle is starting to get to you.</i><br/><br/>Each hero may test . Each hero that does not pass suffers 1.",
-    "pt": "<b> Minor Peril </b> <br/> <br/> <i> O estresse da batalha está começando a chegar até você. </i> <br/> <br/> Cada herói pode testar . Cada herói que não passa sofre 1."
+    "pt": "<b> Minor Peril </b> <br/> <br/> <i> O estresse da batalha está começando a chegar até você. </i> <br/> <br/> Cada herói pode fazer um teste . Cada herói que não passar sofre 1."
   },
   {
     "key": "M_01_MINOR_PERIL_2",
     "en": "<b>Minor Peril</b><br/><br/><i>The oppressive jungle heat saps your strength.</i><br/><br/>Each hero may test . Each hero that does not pass suffers 1.",
-    "pt": "<b> Minor Peril </b> <br/> <br/> <i> O calor opressivo na selva consome a sua força. </i> <br/> <br/> Cada herói pode testar . Cada herói que não passa sofre 1."
+    "pt": "<b> Minor Peril </b> <br/> <br/> <i> O calor opressivo na selva consome a sua força. </i> <br/> <br/> Cada herói pode fazer um teste . Cada herói que não passar sofre 1."
   },
   {
     "key": "M_01_MAJOR_PERIL_1",
-    "en": "<b>Major Peril</b><br/><br/><i>A frag grenade lands at {0}’s feet and explodes.</i><br/><br/>Roll 1 red die. Each figure on or adjacent to {0}’s space suffers  equal to the  results.",
-    "pt": "<b> Grande Perigo </b> <br/> <br/> <i> Uma granada de fragmento aterrissa aos pés de {0} e explode. </i> <br/> <br/> Rolo 1 dado vermelho . Cada figura no espaço de {0} ou adjacente a ele sofre  igual aos resultados de ."
+    "en": "<b>Major Peril</b><br/><br/><i>A frag grenade lands at {0}’s feet explodes.</i><br/><br/>Roll 1 red die. Each figure on or adjacent to {0}’s space suffers  equal to the  results.",
+    "pt": "<b> Grande Perigo </b> <br/> <br/> <i> Uma granada de fragmento aterrissa aos pés de {0} e explode. </i> <br/> <br/> Role 1 dado vermelho . Cada figura no espaço de {0} ou adjacente a ele sofre  igual aos resultados de ."
   },
   {
     "key": "M_01_MAJOR_PERIL_2",
-    "en": "<b>Major Peril</b><br/><br/><i>A shock grenade lands at {0}’s feet and explodes.</i><br/><br/>Roll 1 yellow die. Each figure on or adjacent to {0}’s space suffers  equal to the  results and becomes Stunned.",
-    "pt": "<b> Grande Perigo </b> <br/> <br/> <i> Uma granada de choque aterrissa aos pés de {0} e explode. </i> <br/> <br/> Rolo 1 dado amarelo . Cada figura no espaço de {0} ou adjacente a ele sofre  igual aos resultados and e fica atordoada."
+    "en": "<b>Major Peril</b><br/><br/><i>A shock grenade lands at {0}’s feet explodes.</i><br/><br/>Roll 1 yellow die. Each figure on or adjacent to {0}’s space suffers  equal to the  results and becomes Stunned.",
+    "pt": "<b> Grande Perigo </b> <br/> <br/> <i> Uma granada de choque aterrissa aos pés de {0} e explode. </i> <br/> <br/> Role 1 dado amarelo . Cada figura no espaço de {0} ou adjacente a ele sofre  igual aos resultados e fica atordoada."
   },
   {
     "key": "M_01_CRATE",
@@ -37,12 +37,12 @@
   {
     "key": "M_01_DOOR_1",
     "en": "<i>This door leads into the Rebel base. You must ensure the Imperials are not able to breach it.</i><br/><br/>{0}",
-    "pt": "<i> Esta porta leva à base rebelde. Você deve garantir que os imperiais não consigam violá-lo. </i> <br/> <br/> {0}"
+    "pt": "<i> Esta porta leva à base rebelde. Você deve garantir que os imperiais não consigam violá-la. </i> <br/> <br/> {0}"
   },
   {
     "key": "M_01_DOOR_2",
     "en": "<i>This door leads deeper into the base. Keep the Imperial forces away from it as long as you can.</i><br/><br/>{0}",
-    "pt": "<i> Esta porta leva mais fundo na base. Mantenha as forças imperiais longe dele o máximo que puder. </i> <br/> <br/> {0}"
+    "pt": "<i> Esta porta leva mais fundo na base. Mantenha as forças imperiais longe dela o máximo que puder. </i> <br/> <br/> {0}"
   },
   {
     "key": "M_01_OBJECTIVE_PROBES",
@@ -57,32 +57,32 @@
   {
     "key": "M_01_SETUP",
     "en": "<i>Most of the transports have departed Yavin 4, yet you remain, tasked with providing security to the last few ships that are still being loaded. You are patrolling the perimeter of the base, keeping an eye out for any Imperial forces that might slip past the base’s sensors and lookouts to land on the surface.</i><br/><br/>Place tiles 03A, 05A, 06A, 07A, 08A, 09A, 17A, 18A(2), 38B, and 1 door.",
-    "pt": "<i> A maioria dos transportes partiram de Yavin 4, mas você permanece encarregado de fornecer segurança as últimas naves que ainda estão sendo carregados. Você está patrulhando o perímetro da base, mantendo-se atento a quaisquer forças imperiais que possam passar pelos sensores e vigias da base para pousar na superfície. <br/> <br/> Coloque as telhas 03A, 05A , 06A, 07A, 08A, 09A, 17A, 18A (2), 38B e 1 porta."
+    "pt": "<i> A maioria dos transportes partiram de Yavin 4, mas você permanece encarregado de fornecer segurança as últimas naves que ainda estão sendo carregadas. Você está patrulhando o perímetro da base, mantendo-se atento a quaisquer forças imperiais que possam passar pelos sensores e vigias da base para pousar na superfície. <br/> <br/> Coloque os tiles 03A, 05A , 06A, 07A, 08A, 09A, 17A, 18A (2), 38B e 1 porta."
   },
   {
     "key": "M_01_ENTRANCE",
     "en": "<i>Your squad gathers at the entrance to one of the base’s docking facilities, having just completed another circuit around the structure.</i><br/><br/>Deploy the Rebels.",
-    "pt": "<i> Seu time se reúne na entrada de uma das instalações de base da base, tendo acabado de completar outro circuito ao redor da estrutura. </i> <br/> <br/> Implante os Rebeldes."
+    "pt": "<i> Seu time se reúne na entrada de uma das instalações de ancoragem da base, tendo acabado de completar outro circuito ao redor da estrutura. </i> <br/> <br/> Coloque os Rebeldes."
   },
   {
     "key": "M_01_EPROBE_DEPLOYS",
     "en": "<i>You are sharing your reports from your latest patrols when you hear an unusual humming sound coming from the direction of the forest. You turn slowly, eyes searching the dense overgrowth for the source of the sound. Then you see it: an Imperial probe droid!</i><br/><br/>Deploy the elite Probe Droid.",
-    "pt": "<i> Você está compartilhando seus relatórios de suas últimas patrulhas quando ouve um som incomum vindo da direção da floresta. Você gira devagar, os olhos procurando o denso crescimento excessivo da fonte do som. Então você vê: um droid de sonda imperial! </i> <br/> <br/> Implante o Droid de sonda de elite."
+    "pt": "<i> Você está compartilhando seus relatórios de suas últimas patrulhas quando ouve um som incomum vindo da direção da floresta. Você gira devagar, os olhos procurando o denso crescimento da fonte do som. Então você vê: um droid de sonda imperial! </i> <br/> <br/> Coloque o Droid de sonda de elite."
   },
   {
     "key": "M_01_PROBES_DEPLOY",
     "en": "<i>As you raise your weapon to attack the droid, similar humming noises begin on either side of you, and you spot two more probe droids emerging from the cover of the trees!</i><br/><br/>Deploy a regular Probe Droid. Assign it a color.",
-    "pt": "<i> Enquanto você levanta sua arma para atacar o dróide, barulhos semelhantes começam com os dois lados de você, e você vê mais dois dróides sonda surgindo da cobertura das árvores! </i> <br/> <br/> Implante um Droid Probe regular. Atribuir uma cor."
+    "pt": "<i> Enquanto você levanta sua arma para atacar o dróide, barulhos semelhantes começam de ambos os seus lados, e você vê mais dois dróides sonda surgindo da cobertura das árvores! </i> <br/> <br/> Coloque um Droid Probe regular. Atribua uma cor."
   },
   {
     "key": "M_01_PROBES_DEPLOY_2",
     "en": "Deploy a regular Probe Droid. Assign it a color.",
-    "pt": "Implante um Droid Probe regular. Atribuir uma cor."
+    "pt": "Coloque um Droid Probe regular. Atribua uma cor."
   },
   {
     "key": "M_01_KILL_PROBES",
     "en": "<i>You radio in to the command center to report the probe droids. \"Take them out! Quickly!\" a woman's voice replies. This is the officer on duty, Lieutenant Talcon. \"If they signal back to their ship, the Empire will know where to send their troops!\"<br/><br/>You need to defeat the probe droids before they can signal their ship.</i><br/><br/>  Objective Updated  <br/><br/>Defeat the Probe Droids.",
-    "pt": "<i> Você liga para o centro de comando para reportar os dróides da sonda. \"Leve-os para fora! Rapidamente!\" uma voz de mulher responde. Este é o oficial de serviço, tenente Talcon. \"Se eles enviarem de volta para a nave, o Império saberá para onde enviar suas tropas!\" <br/> <br/> Você precisa derrotar os dróides da sonda antes que eles possam sinalizar sua nave. </i> <br/> <br/>  Objetivo Atualizado  <br/> <br/> Derrote os Droides Probe."
+    "pt": "<i> Você liga para o centro de comando para reportar os dróides da sonda. \"Leve-os para fora! Rápido!\" uma voz de mulher responde. Esta é a oficial de serviço, tenente Talcon. \"Se eles comunicarem de volta para a nave, o Império saberá para onde enviar suas tropas!\" <br/> <br/> Você precisa derrotar os dróides da sonda antes que eles possam sinalizar para sua nave. </i> <br/> <br/>  Objetivo Atualizado  <br/> <br/> Derrote os Droides Probe."
   },
   {
     "key": "M_01_PROBES_ALERT",
@@ -97,22 +97,22 @@
   {
     "key": "M_01_PROBES_DEAD",
     "en": "<i>\"Good work taking out those probe droids!\" says Lieutenant Talcon. \"Several Imperial Star Destroyers have just been detected. You can be sure that more Imperial forces are on their way, but at least you bought us some extra time!\"</i>",
-    "pt": "<I> \"Bom trabalho tirando os droides sonda!\" diz o tenente Talcon. \"Vários Imperial Star Destroyers acabaram de ser detectados. Você pode ter certeza de que mais forças imperiais estão a caminho, mas pelo menos você nos deu algum tempo extra!\" </i>"
+    "pt": "<I> \"Bom trabalho acabando com os droides sonda!\" diz a tenente Talcon. \"Vários Imperial Star Destroyers acabaram de ser detectados. Você pode ter certeza de que mais forças imperiais estão a caminho, mas pelo menos você nos deu algum tempo extra!\" </i>"
   },
   {
     "key": "M_01_IMPERIALS_ARRIVE",
     "en": "<i>Moments later, more Imperial troops come crashing through the underbrush, weapons hot!</i>",
-    "pt": "<i> Momentos depois, mais tropas imperiais caem no mato, armas quentes! </i>"
+    "pt": "<i> Momentos depois, mais tropas imperiais caem na vegetação, armas preparadas! </i>"
   },
   {
     "key": "M_01_TROOPERS_PLACE",
     "en": "<i>The door to the base opens just long enough for three Rebel troopers to rush out onto the battlefield, and the door quickly closes behind them.</i><br/><br/>Deploy the regular Rebel Trooper group. Then each Rebel Trooper gains 6 movement points.",
-    "pt": "<i> A porta da base abre apenas o tempo suficiente para três soldados rebeldes correrem para o campo de batalha, e a porta rapidamente se fecha atrás deles. </i> <br/> <br/> Implante o grupo Rebel Trooper. Então cada Soldado Rebelde ganha 6 pontos de movimento."
+    "pt": "<i> A porta da base abre apenas o tempo suficiente para três soldados rebeldes correrem para o campo de batalha, e a porta rapidamente se fecha atrás deles. </i> <br/> <br/> Coloque o grupo Rebel Trooper. Então cada Soldado Rebelde ganha 6 pontos de movimento."
   },
   {
     "key": "M_01_STAY_ALIVE",
     "en": "<i>\"Imperial forces inbound!\" Lieutenant Talcon calls out. \"Hold them off as long as you can while we finish loading the last of the transports. If you start taking too many casualties, fall back into the base. May the Force be with you!\"</i><br/><br/>  Objective Updated  <br/><br/>Hold off the Imperial forces until the last transports can escape.",
-    "pt": "<i> \"Forças imperiais de entrada!\" O tenente Talcon chama. \"Segure-os o quanto puder enquanto terminamos de carregar o último dos transportes. Se você começar a pegar muitas vítimas, volte para a base. Que a Força esteja com você!\" </i> <br/> <br/>  Objetivo Atualizado  <br/> <br/> Segure as forças imperiais até que os últimos transportes possam escapar."
+    "pt": "<i> \"Forças imperiais de entrada!\" A tenente Talcon chama. \"Segure-os o quanto puder enquanto terminamos de carregar o último dos transportes. Se você começar a ter muitas vítimas, volte para a base. Que a Força esteja com você!\" </i> <br/> <br/>  Objetivo Atualizado  <br/> <br/> Segure as forças imperiais até que os últimos transportes possam escapar."
   },
   {
     "key": "M_01_REINFORCEMENTS",
@@ -127,32 +127,32 @@
   {
     "key": "M_01_STORMTROOPERS",
     "en": "<i>A squad of stormtroopers ambushes you!</i><br/><br/>Deploy a regular Stormtrooper group. Assign it a color.",
-    "pt": "<i> Um esquadrão de stormtroopers te embosca! </i> <br/> <br/> Implante um grupo regular de Stormtrooper. Atribuir uma cor."
+    "pt": "<i> Um esquadrão de stormtroopers te embosca! </i> <br/> <br/> Coloque um grupo regular de Stormtrooper. Atribua uma cor."
   },
   {
     "key": "M_01_SHIPS_LEFT",
     "en": "<i>\"Only {0} transports have yet to depart!\" Lieutenant Talcon says over the comlink. \"Keep standing strong!\"",
-    "pt": "<i> \"Apenas {0} transportes ainda não partiram!\" O tenente Talcon diz sobre o comlink. \"Continue em pé forte!\""
+    "pt": "<i> \"Apenas {0} transportes ainda não partiram!\" A tenente Talcon diz pelo comlink. \"Continue forte!\""
   },
   {
     "key": "M_01_SHIP_LEFT",
     "en": "<i>\"Just one transport left!\" Lieutenant Talcon calls over the comlink. \"Hold on just a little longer!\"",
-    "pt": "<i> \"Apenas um transporte restante!\" O tenente Talcon chama o comlink. \"Espere um pouco mais!\""
+    "pt": "<i> \"Apenas um transporte restante!\" A tenente Talcon diz pelo comlink. \"Aguente só mais um pouco!\""
   },
   {
     "key": "M_01_CRATES_PLACE",
     "en": "<i>Some crates appear to have been left behind in the rush to evacuate. They may contain something useful.</i><br/><br/>Place 2 crates.",
-    "pt": "<i> Algumas caixas parecem ter sido deixadas para trás na pressa de evacuar. Eles podem conter algo útil. </i> <br/> <br/> Coloque 2 caixas."
+    "pt": "<i> Algumas caixas parecem ter sido deixadas para trás na pressa de evacuar. Elas podem conter algo útil. </i> <br/> <br/> Coloque 2 caixas."
   },
   {
     "key": "M_01_FIRST_DEFEAT_1",
     "en": "<i>\"If you’re running low on supplies, fall back to the base!\" Lieutenant Talcon adds. \"I’ll open the door for you!\"</i><br/><br/>Open the door. Place tile 23B and 1 door.",
-    "pt": "<i> \"Se você está com poucos suprimentos, volte para a base!\" O tenente Talcon acrescenta. \"Eu abro a porta para você!\" </i> <br/> <br/> Abra a porta. Coloque a telha 23B e 1 porta."
+    "pt": "<i> \"Se você está com poucos suprimentos, volte para a base!\" A tenente Talcon acrescenta. \"Eu abro a porta para vocês!\" </i> <br/> <br/> Abra a porta. Coloque o tile 23B e 1 porta."
   },
   {
     "key": "M_01_FIRST_DEFEAT_2_DEPLOY",
     "en": "<i>Another squad of Rebel troopers comes rushing out of the base to provide you with reinforcements.</i><br/><br/>Deploy the regular Rebel Trooper group.",
-    "pt": "<i> Outro esquadrão de soldados rebeldes vem correndo para fora da base para fornecer reforços. </i> <br/> <br/> Implante o grupo Rebel Trooper."
+    "pt": "<i> Outro esquadrão de soldados rebeldes vem correndo para fora da base para fornecer reforços. </i> <br/> <br/> Coloque o grupo Rebel Trooper."
   },
   {
     "key": "M_01_FIRST_DEFEAT_2_REINFORCE",
@@ -162,17 +162,17 @@
   {
     "key": "M_01_FIRST_DEFEAT_3",
     "en": "<i>\"Fight them off as long as you can!\" Lieutenant Talcon says. With the door to the base open, you are presented with an opportunity to fall back to relative safety.</i><br/><br/>Each Rebel may interrupt to perform a move action.",
-    "pt": "<i> \"Combata-os o quanto puder!\" O tenente Talcon diz. Com a porta da base aberta, você terá a oportunidade de voltar à relativa segurança. <br/> <br/> Cada Rebelde pode interromper para executar uma ação de movimento."
+    "pt": "<i> \"Combata-os o quanto puder!\" A tenente Talcon diz. Com a porta da base aberta, você terá a oportunidade de voltar à uma relativa segurança. <br/> <br/> Cada Rebelde pode interromper para executar uma ação de movimento."
   },
   {
     "key": "M_01_SECOND_DEFEAT_1",
     "en": "<i>The withering fire from the Imperial forces is taking its toll on your team. \"We’re nearly done loading the last of the transports,\" Lieutenant Talcon informs you over your comlink. \"We just need a little more time. I’ll clear your way to your ship if you need to make an escape.\" Another door opens on a remote signal from the command center.</i><br/><br/>Open the door. Place tiles 25B and 36B(2).",
-    "pt": "<i> O fogo devastador das forças imperiais está tomando seu pedágio em seu time. \"Estamos quase terminando de carregar o último dos transportes\", informa o tenente Talcon sobre seu comlink. \"Nós só precisamos de um pouco mais de tempo. Eu vou abrir caminho para a sua nave, se você precisar fazer uma fuga.\" Outra porta se abre em um sinal remoto do centro de comando. </i> <br/> <br/> Abra a porta. Coloque os ladrilhos 25B e 36B (2)."
+    "pt": "<i> O fogo devastador das forças imperiais está tomando seu pedágio em seu time. \"Estamos quase terminando de carregar o último dos transportes\", informa a tenente Talcon sobre seu comlink. \"Nós só precisamos de um pouco mais de tempo. Eu vou abrir caminho para a sua nave, se você precisar fugir.\" Outra porta se abre com um sinal remoto do centro de comando. </i> <br/> <br/> Abra a porta. Coloque os tiles 25B e 36B (2)."
   },
   {
     "key": "M_01_SECOND_DEFEAT_3",
     "en": "<i>Through the smoke and haze from the blaster fire, you see the outline of a dark, imposing figure striding out of the jungle. It is not until a glowing red blade appears in the figure’s hand that you realize a Dark Lord of the Sith has arrived. You know that you have no chance of defeating Darth Vader.</i><br/><br/>Deploy Darth Vader. Darth Vader cannot be defeated.",
-    "pt": "<i> Através da fumaça e neblina do fogo, você vê o contorno de uma figura escura e imponente saindo da selva. Não é até que uma lâmina vermelha brilhante aparece na mão da figura que você percebe que um Lorde das Trevas dos Sith chegou. Você sabe que não tem chance de derrotar Darth Vader. </i> <br/> <br/> Implante Darth Vader. Darth Vader não pode ser derrotado."
+    "pt": "<i> Através da fumaça e neblina do fogo, você vê o contorno de uma figura escura e imponente saindo da selva. Não é até que uma lâmina vermelha brilhante aparece na mão da figura que você percebe que um Lorde das Trevas dos Sith chegou. Você sabe que não tem chance de derrotar Darth Vader. </i> <br/> <br/> Coloque Darth Vader. Darth Vader não pode ser derrotado."
   },
   {
     "key": "M_01_VADER_NO_DEFEAT",
@@ -182,7 +182,7 @@
   {
     "key": "M_01_WIN",
     "en": "<i>\"That’s it! The last ship is off!\" Lieutenant Talcon shouts excitedly. \"Great work! Get yourselves to safety!\" You retreat through the base to your ship and quickly get aboard. Your pilot is already there, ready to take off as soon as everyone is accounted for.</i>{0}",
-    "pt": "<i> \"É isso! O última nave está desligado!\" O tenente Talcon grita animadamente. \"Ótimo trabalho! Sigam-se em segurança!\" Você recua através da base para a sua nave e rapidamente embarca. Seu piloto já está lá, pronto para decolar assim que todos forem contabilizados. </i> {0}"
+    "pt": "<i> \"É isso! O última nave está desligado!\" A tenente Talcon grita animadamente. \"Ótimo trabalho! Sigam-se em segurança!\" Você recua através da base para a sua nave e rapidamente embarca. Seu piloto já está lá, pronto para decolar assim que todos forem contabilizados. </i> {0}"
   },
   {
     "key": "M_01_WIN_2",
@@ -367,12 +367,12 @@
   {
     "key": "M_02_ACCOMPLICE_ATTACKS",
     "en": "<i>The {0} fires at you!</i><br/><br/>Roll 1 blue and 1 green die. The Rebel closest to and in line of sight of the accomplice (the {1} mission token) suffers  equal to the  results.",
-    "pt": "<i> O {0} dispara contra você! </i> <br/> <br/> Rolo 1 azul e 1 dado verde. O Rebelde mais próximo e na linha de visão do cúmplice (o {1} token de missão) sofre  igual aos resultados ."
+    "pt": "<i> O {0} dispara contra você! </i> <br/> <br/> Role 1 azul e 1 dado verde. O Rebelde mais próximo e na linha de visão do cúmplice (o {1} token de missão) sofre  igual aos resultados ."
   },
   {
     "key": "M_02_ACCOMPLICE_SHOOT",
     "en": "<i>As you turn your back to the {0}, you hear the click of a weapon safety just before you feel a sharp pain in your back.</i><br/><br/>Roll 1 blue and 1 green die. You suffer  equal to the  results.",
-    "pt": "<i> Ao virar as costas para o {0}, você ouve o clique de uma arma segura antes de sentir uma dor aguda nas costas. </i> <br/> <br/> Rolo 1 azul e 1 morrer verde. Você sofre  igual aos resultados.."
+    "pt": "<i> Ao virar as costas para o {0}, você ouve o clique de uma arma segura antes de sentir uma dor aguda nas costas. </i> <br/> <br/> Role 1 azul e 1 morrer verde. Você sofre  igual aos resultados.."
   },
   {
     "key": "M_02_ACCOMPLICE_SHOOT_2",
@@ -387,7 +387,7 @@
   {
     "key": "M_02_MINOR_PERIL_1",
     "en": "<b>Minor Peril</b><br/><br/><i>The stench of the garbage dump assaults your nostrils, making you gag.</i><br/><br/>Each Rebel on tile 19B or a tile connected to it suffers 1.",
-    "pt": "<b> Minor Peril </b> <br/> <br/> <i> O fedor do depósito de lixo assalta suas narinas, fazendo você engasgar. </i> <br/> <br/> Cada rebelde na telha 19B ou um ladrilho conectado a ele sofre 1."
+    "pt": "<b> Minor Peril </b> <br/> <br/> <i> O fedor do depósito de lixo assalta suas narinas, fazendo você engasgar. </i> <br/> <br/> Cada rebelde no tile 19B ou um ladrilho conectado a ele sofre 1."
   },
   {
     "key": "M_02_MINOR_PERIL_2",
@@ -397,7 +397,7 @@
   {
     "key": "M_02_MINOR_PERIL_3",
     "en": "<b>Minor Peril</b><br/><br/><i>Radiant heat from the furnace has turned the room into an oven, made worse by the singeing energy of flying blaster bolts.</i><br/><br/>Each Rebel on tile 23B, 24B, or a tile connected to either, suffers 1.",
-    "pt": "<b> Minor Peril </b> <br/> <br/> <i> O aquecimento radiante do forno transformou a sala em um forno, agravada pela energia de queima de parafusos blaster. </i> <br> /> <br/> Cada Rebel na telha 23B, 24B, ou uma telha conectada a um, sofre 1."
+    "pt": "<b> Minor Peril </b> <br/> <br/> <i> O aquecimento radiante do forno transformou a sala em um forno, agravada pela energia de queima de parafusos blaster. </i> <br> /> <br/> Cada Rebel no tile 23B, 24B, ou um tile conectada a um, sofre 1."
   },
   {
     "key": "M_02_MAJOR",
@@ -436,18 +436,18 @@
   },
   {
     "key": "M_02_OBJECTIVE_SHUTTLE",
-    "en": "Cover the crew members as they return to the shuttle and escape.",
+    "en": "Cover the crew members as they return to the shuttle escape.",
     "pt": "Cubra os membros da tripulação enquanto eles retornam ao ônibus e escapam."
   },
   {
     "key": "M_02_INTRO",
     "en": "<i>The crew members went missing during a resupply mission on this mountainous Mid Rim world. You track the missing crew’s shuttle to a docking bay in a remote, sparsely populated region of the planet and decide that will be a good place to start looking.</i><br/><br/>Place tiles 01B, 18B(2), 21B, 25B, 26B, 36B(2), 39B, and 3 doors.",
-    "pt": "<i> Os membros da tripulação desapareceram durante uma missão de reabastecimento neste mundo montanhoso de Mid Rim. Você rastreia o transporte da tripulação ausente para uma baía de ancoragem em uma região remota e pouco povoada do planeta e decide que esse será um bom local para começar a procurar. <br/> <br/> Coloque as peças de telhas 01B, 18B (2), 21B, 25B, 26B, 36B (2), 39B e 3 portas."
+    "pt": "<i> Os membros da tripulação desapareceram durante uma missão de reabastecimento neste mundo montanhoso de Mid Rim. Você rastreia o transporte da tripulação ausente para uma baía de ancoragem em uma região remota e pouco povoada do planeta e decide que esse será um bom local para começar a procurar. <br/> <br/> Coloque as peças de tiles 01B, 18B (2), 21B, 25B, 26B, 36B (2), 39B e 3 portas."
   },
   {
     "key": "M_02_ENTRANCE",
     "en": "<i>You enter the spaceport complex to which the docking bay is attached. To your left is the docking bay where the crew’s shuttle is docked. To your right is a cantina, with the sound of live music and the smell of fresh-cooked food wafting out through the open door.</i><br/><br/>Deploy the Rebels.",
-    "pt": "<i> Você entra no complexo do porto espacial ao qual o compartimento de encaixe está conectado. À sua esquerda, está a doca onde o ônibus da tripulação está ancorado. À sua direita está uma cantina, com o som de música ao vivo e o cheiro de comida recém-cozida flutuando pela porta aberta. <br/> <br/> Implante os rebeldes."
+    "pt": "<i> Você entra no complexo do porto espacial ao qual o compartimento de encaixe está conectado. À sua esquerda, está a doca onde o ônibus da tripulação está ancorado. À sua direita está uma cantina, com o som de música ao vivo e o cheiro de comida recém-cozida flutuando pela porta aberta. <br/> <br/> Coloque os rebeldes."
   },
   {
     "key": "M_02_CANTINA_PATRONS",
@@ -507,7 +507,7 @@
   {
     "key": "M_02_IG88_ARRIVES",
     "en": "<i>You think you hear a whirring sound coming from somewhere nearby. You look around, but cannot find its source. Just then, something lands on top of you, smashing you to the ground with a thud. You groggily look up to see the deadly assassin droid IG-88 standing over you, weapons at the ready.</i><br/><br/>Roll 1 red die. « The healthy hero who has suffered the least  » suffers  equal to the  results and becomes Stunned. Then deploy IG-88 as close as possible to that hero.",
-    "pt": "<i> Você acha que ouve um zumbido vindo de algum lugar próximo. Você olha em volta, mas não consegue encontrar sua fonte. Só então, algo cai em cima de você, esmagando você no chão com um baque. Você grogue olhar para cima para ver o dróide assassino IG-88 em pé sobre você, armas prontas. </i> <br/> <br/> Rolo 1 morrer vermelho. «O herói saudável que sofreu menos » sofre  igual aos resultados and e fica atordoado. Em seguida, implemente o IG-88 o mais próximo possível desse herói."
+    "pt": "<i> Você acha que ouve um zumbido vindo de algum lugar próximo. Você olha em volta, mas não consegue encontrar sua fonte. Só então, algo cai em cima de você, esmagando você no chão com um baque. Você grogue olhar para cima para ver o dróide assassino IG-88 em pé sobre você, armas prontas. </i> <br/> <br/> Role 1 morrer vermelho. «O herói saudável que sofreu menos » sofre  igual aos resultados e fica atordoado. Em seguida, implemente o IG-88 o mais próximo possível desse herói."
   },
   {
     "key": "M_02_IG88_DEFEATED",
@@ -1042,7 +1042,7 @@
   {
     "key": "M_02_BARTENDER_BACKSTAB",
     "en": "<i>The time it takes you to look behind you is all the time the Nikto needs to pull a scattergun out from under the bar and fire at you.</i><br/><br/>Roll 1 blue and 1 green die. You suffer  equal to the  results.",
-    "pt": "<i> O tempo que você leva para olhar para trás é o tempo todo que o Nikto precisa para soltar a arma e atirar em você. </i> <br/> <br/> Rolo 1 azul e 1 morrer verde. Você sofre  igual aos resultados.."
+    "pt": "<i> O tempo que você leva para olhar para trás é o tempo todo que o Nikto precisa para soltar a arma e atirar em você. </i> <br/> <br/> Role 1 azul e 1 morrer verde. Você sofre  igual aos resultados.."
   },
   {
     "key": "M_02_BARTENDER_NICE_TRY",
@@ -1261,7 +1261,7 @@
   },
   {
     "key": "M_02_CREW_ALL_RESCUED",
-    "en": "<i>With the last of your crew members liberated, it’s time to make a quick escape. You cover the crew as they race back to their shuttle.</i><br/><br/>  Objective Updated  <br/><br/>Cover the crew members as they return to the shuttle and escape.",
+    "en": "<i>With the last of your crew members liberated, it’s time to make a quick escape. You cover the crew as they race back to their shuttle.</i><br/><br/>  Objective Updated  <br/><br/>Cover the crew members as they return to the shuttle escape.",
     "pt": "<i> Com o último dos seus tripulantes liberados, é hora de fazer uma fuga rápida. Você cobre a tripulação enquanto eles correm de volta para o ônibus. </i> <br/> <br/>  Objetivo Atualizado  <br/> <br/> Cubra os membros da tripulação enquanto eles retornam ao ônibus e escapam."
   },
   {
@@ -1377,22 +1377,22 @@
   {
     "key": "M_04_Intro_Tiles",
     "en": "<i>Following a trail of broken branches, you carefully approach the edge of the jungle to a hill overlooking the facility entrance.</i><br/><br/>Place tiles 02A, 06A, 18A(2), 39A, and 1 door.",
-    "pt": "<i> Seguindo um rastro de galhos quebrados, você se aproxima cuidadosamente da borda da selva até uma colina com vista para a entrada da instalação. </i> <br/> <br/> Coloque as telhas 02A, 06A, 18A (2), 39A e 1 porta."
+    "pt": "<i> Seguindo um rastro de galhos quebrados, você se aproxima cuidadosamente da borda da selva até uma colina com vista para a entrada da instalação. </i> <br/> <br/> Coloque os tiles 02A, 06A, 18A (2), 39A e 1 porta."
   },
   {
     "key": "M_04_Deploy",
     "en": "<i>Over the low hum of the Imperial compound, you hear a hushed conversation. Inching closer, you grab your macrobinoculars and take up hidden positions among the last line of trees.</i><br/><br/>Deploy the Rebels.",
-    "pt": "<i> Sobre o zumbido baixo do complexo imperial, você ouve uma conversa silenciosa. Aproximando-se, você pega seus macrobinóculos e ocupa posições ocultas entre a última linha de árvores. </i> <br/> <br/> Implante os Rebeldes."
+    "pt": "<i> Sobre o zumbido baixo do complexo imperial, você ouve uma conversa silenciosa. Aproximando-se, você pega seus macrobinóculos e ocupa posições ocultas entre a última linha de árvores. </i> <br/> <br/> Coloque os Rebeldes."
   },
   {
     "key": "M_04_Meeting",
     "en": "<i>Below, you spot your suspect handing something to a stormtrooper.</i><br/><br/>Deploy 1 elite Stormtrooper.",
-    "pt": "<i> Abaixo, você vê seu suspeito entregando algo a um stormtrooper. </i> <br/> <br/> Implante 1 Stormtrooper de elite."
+    "pt": "<i> Abaixo, você vê seu suspeito entregando algo a um stormtrooper. </i> <br/> <br/> Coloque 1 Stormtrooper de elite."
   },
   {
     "key": "M_04_Meeting1B",
     "en": "Deploy the elite Imperial Officer. This Imperial Officer is {0}.",
-    "pt": "Implante o oficial imperial de elite. Este oficial imperial é {0}."
+    "pt": "Coloque o oficial imperial de elite. Este oficial imperial é {0}."
   },
   {
     "key": "M_04_Meeting2",
@@ -1402,7 +1402,7 @@
   {
     "key": "M_04_Stormtroopers",
     "en": "<i>Another patrol trooper checks his weapon and reloads from a nearby supply crate. A third emerges from the base and begins pacing the area.</i><br/><br/>Deploy the remaining 2 elite Stormtroopers and place 1 crate.",
-    "pt": "<i> Outro patrulheiro verifica sua arma e recarrega de uma caixa de suprimentos próxima. Um terceiro emerge da base e começa a andar pela área. </i> <br/> <br/> Implante os 2 Stormtroopers de elite restantes e coloque 1 caixa."
+    "pt": "<i> Outro patrulheiro verifica sua arma e recarrega de uma caixa de suprimentos próxima. Um terceiro emerge da base e começa a andar pela área. </i> <br/> <br/> Coloque os 2 Stormtroopers de elite restantes e coloque 1 caixa."
   },
   {
     "key": "M_04_Start Fight",
@@ -1437,12 +1437,12 @@
   {
     "key": "M_04_Suspect Meeting1",
     "en": "<i>You spot your suspect sticking to the shadows, speaking with someone. \"It’s not too late, you can still do the right thing,\" {0} pleads. \"The perimeter officer will be unconscious for another hour, and with his uniform and code cylinder, I can walk us right out of here.\"</i><br/><br/>Deploy a regular Imperial Officer. This is {1}. Assign him a color.",
-    "pt": "<i> Você identifica seu suspeito nas sombras, falando com alguém. \"Não é tarde demais, você ainda pode fazer a coisa certa\", implora {0}. \"O oficial de perímetro ficará inconsciente por mais uma hora, e com seu uniforme e código de cilindro, eu posso sair daqui.\" </i> <br/> <br/> Implante um oficial imperial. Isso é {1}. Atribuir-lhe uma cor."
+    "pt": "<i> Você identifica seu suspeito nas sombras, falando com alguém. \"Não é tarde demais, você ainda pode fazer a coisa certa\", implora {0}. \"O oficial de perímetro ficará inconsciente por mais uma hora, e com seu uniforme e código de cilindro, eu posso sair daqui.\" </i> <br/> <br/> Coloque um oficial imperial. Isso é {1}. Atribuir-lhe uma cor."
   },
   {
     "key": "M_04_Suspect Meeting2",
     "en": "<i>\"It is too late, my friend.\" {0} leans forward from the shade. \"I betrayed the Rebellion, and we both know what happens to traitors.\"</i><br/><br/>Deploy the elite Imperial Officer. This is {1}.",
-    "pt": "<i> \"É tarde demais, meu amigo.\" {0} se inclina para frente da sombra. \"Eu traí a Rebelião, e nós dois sabemos o que acontece com os traidores.\" </i> <br/> <br/> Implante o Oficial Imperial de elite. Isso é {1}."
+    "pt": "<i> \"É tarde demais, meu amigo.\" {0} se inclina para frente da sombra. \"Eu traí a Rebelião, e nós dois sabemos o que acontece com os traidores.\" </i> <br/> <br/> Coloque o Oficial Imperial de elite. Isso é {1}."
   },
   {
     "key": "M_04_Suspect Meeting3",
@@ -1482,7 +1482,7 @@
   {
     "key": "M_04_Facility Tiles",
     "en": "<i>The winding Imperial facility is as tall as the canopy. Natural light filters in through skylights, though even those are choked by vines.</i><br/><br/>Place tiles 21A, 23A, 28A, 31A, 32A, 35A, and 1 door.",
-    "pt": "<i> A instalação imperial sinuosa é tão alta quanto o dossel. A luz natural é filtrada através das claraboias, embora até mesmo as paredes estejam sufocadas por videiras. <br/> <br/> Coloque as telhas 21A, 23A, 28A, 31A, 32A, 35A e 1 porta."
+    "pt": "<i> A instalação imperial sinuosa é tão alta quanto o dossel. A luz natural é filtrada através das claraboias, embora até mesmo as paredes estejam sufocadas por videiras. <br/> <br/> Coloque os tiles 21A, 23A, 28A, 31A, 32A, 35A e 1 porta."
   },
   {
     "key": "M_04_Facility Tiles2",
@@ -1577,7 +1577,7 @@
   {
     "key": "M_04_Hangar Tiles",
     "en": "<i>The facility’s hangar opens out over the great jungle. The sight would be breathtaking under different circumstances.</i><br/><br/>Open the door. Place tiles 19A and 36A(2).",
-    "pt": "<i> O hangar da instalação se abre sobre a grande selva. A visão seria de tirar o fôlego em diferentes circunstâncias. <br/> <br/> Abra a porta. Coloque os ladrilhos A19A e 36A (2)."
+    "pt": "<i> O hangar da instalação se abre sobre a grande selva. A visão seria de tirar o fôlego em diferentes circunstâncias. <br/> <br/> Abra a porta. Coloque os tiles A19A e 36A (2)."
   },
   {
     "key": "M_04_Hangar Spawn",
@@ -1592,7 +1592,7 @@
   {
     "key": "M_04_Hangar Traitor",
     "en": "<i>Across the hangar, you see {0} starting to climb up a ladder into a shuttle.<br/><br/>\"You’re too late, Rebels. I just dropped everything I know to the general. Good luck getting it back now!\"</i><br/><br/>Deploy {1} with his previous damage and conditions.",
-    "pt": "<i> Do outro lado do hangar, você vê {0} começando a subir uma escada em um ônibus. <br/> <br/> \"Você está muito atrasado, Rebeldes. Acabei de deixar tudo o que sei para o general. Bom sorte de recuperá-lo agora! \"</i> <br/> <br/> Implante {1} com seus danos e condições anteriores."
+    "pt": "<i> Do outro lado do hangar, você vê {0} começando a subir uma escada em um ônibus. <br/> <br/> \"Você está muito atrasado, Rebeldes. Acabei de deixar tudo o que sei para o general. Bom sorte de recuperá-lo agora! \"</i> <br/> <br/> Coloque {1} com seus danos e condições anteriores."
   },
   {
     "key": "M_04_Traitor Shuttle",
@@ -1622,12 +1622,12 @@
   {
     "key": "M_04_Weiss Normal",
     "en": "<i>At the edge of the hangar, an enormous AT-ST awkwardly turns to face you, stomping with each minor adjustment. A grizzled commander barks orders from the top hatch.</i><br/><br/>Deploy General Weiss.",
-    "pt": "<i> Na beira do hangar, um enorme AT-ST se vira desajeitadamente para encará-lo, pisando com cada pequeno ajuste. Um comandante grisalho dá ordens desde a escotilha superior. </i> <br/> <br/> Implante o General Weiss."
+    "pt": "<i> Na beira do hangar, um enorme AT-ST se vira desajeitadamente para encará-lo, pisando com cada pequeno ajuste. Um comandante grisalho dá ordens desde a escotilha superior. </i> <br/> <br/> Coloque o General Weiss."
   },
   {
     "key": "M_04_Weiss Hard",
     "en": "<i>At the edge of the hangar, an enormous AT-ST awkwardly turns to face you, stomping with each minor adjustment. A grizzled commander barks orders from the top hatch.</i><br/><br/>Deploy General Weiss with +10 Health.",
-    "pt": "<i> Na beira do hangar, um enorme AT-ST se vira desajeitadamente para encará-lo, pisando com cada pequeno ajuste. Um comandante grisalho dá ordens a partir da escotilha superior. </i> <br/> <br/> Implante General Weiss com +10 de vida."
+    "pt": "<i> Na beira do hangar, um enorme AT-ST se vira desajeitadamente para encará-lo, pisando com cada pequeno ajuste. Um comandante grisalho dá ordens a partir da escotilha superior. </i> <br/> <br/> Coloque General Weiss com +10 de vida."
   },
   {
     "key": "M_04_Weiss Flavor",
@@ -1876,7 +1876,7 @@
   },
   {
     "key": "M_04_Failure1",
-    "en": "<i>Outgunned, you flee back into the jungle. Blaster bolts whiz past your ears as you try not to trip over the roots. You lose your pursuers in the trees and escape to the safety of your waiting ship.</i>",
+    "en": "<i>Outgunned, you flee back into the jungle. Blaster bolts whiz past your ears as you try not to trip over the roots. You lose your pursuers in the trees escape to the safety of your waiting ship.</i>",
     "pt": "<i> Outgunned, você foge de volta para a selva. Os parafusos Blaster passam rapidamente por seus ouvidos enquanto você tenta não tropeçar nas raízes. Você perde seus perseguidores nas árvores e foge para a segurança da sua nave que está esperando. </i>"
   },
   {
@@ -2067,7 +2067,7 @@
   {
     "key": "M_05_Introduction",
     "en": "<i>You sneak through the halls, hiding whenever you hear boots approaching. Following the faint drops of blood your captain left, you quietly approach a large room.</i><br/><br/>Place tiles 20A, 25A, 31A, and 36A.",
-    "pt": "<i> Você entra sorrateiramente pelos corredores, se escondendo sempre que ouve as botas se aproximando. Após as leves gotas de sangue que seu capitão deixou, você calmamente se aproxima de uma grande sala. <br/> <br/> Coloque as telhas A20A, 25A, 31A e 36A."
+    "pt": "<i> Você entra sorrateiramente pelos corredores, se escondendo sempre que ouve as botas se aproximando. Após as leves gotas de sangue que seu capitão deixou, você calmamente se aproxima de uma grande sala. <br/> <br/> Coloque os tiles A20A, 25A, 31A e 36A."
   },
   {
     "key": "M_05_Introduction_2",
@@ -2082,12 +2082,12 @@
   {
     "key": "M_05_Deploy_Heroes",
     "en": "<i>You inch forward to try to get a better view of the situation.</i><br/><br/>Deploy the Rebels.",
-    "pt": "<i> Você avança para tentar ter uma melhor visão da situação. </i> <br/> <br/> Implante os rebeldes."
+    "pt": "<i> Você avança para tentar ter uma melhor visão da situação. </i> <br/> <br/> Coloque os rebeldes."
   },
   {
     "key": "M_05_Deploy_Traitor",
     "en": "<i>Across the room, a familiar silhouette checks the lock on a door. Whistling, he slides a code cylinder into his coat pocket.</i><br/><br/>Deploy the elite Imperial Officer. This is {0}.",
-    "pt": "<i> Do outro lado da sala, uma silhueta familiar verifica a fechadura de uma porta. Assobiando, ele coloca um cilindro de código no bolso do casaco. <br/> <br/> Implante o Oficial Imperial de elite. Isso é {0}."
+    "pt": "<i> Do outro lado da sala, uma silhueta familiar verifica a fechadura de uma porta. Assobiando, ele coloca um cilindro de código no bolso do casaco. <br/> <br/> Coloque o Oficial Imperial de elite. Isso é {0}."
   },
   {
     "key": "M_05_Deploy_Traitor_2",
@@ -2097,7 +2097,7 @@
   {
     "key": "M_05_Deploy_Officer",
     "en": "<i>Across the room, an officer checks the lock on a door, neatly tucks a code cylinder into his jacket, adjusts his gloves, and then stands at attention guarding the door.</i><br/><br/>Deploy the elite Imperial Officer.",
-    "pt": "<i> Do outro lado da sala, um policial verifica a fechadura de uma porta, cuidadosamente enfia um cilindro de código na jaqueta, ajusta as luvas e, em seguida, fica atento à porta. </i> <br/> <br/> Implante o oficial imperial de elite."
+    "pt": "<i> Do outro lado da sala, um policial verifica a fechadura de uma porta, cuidadosamente enfia um cilindro de código na jaqueta, ajusta as luvas e, em seguida, fica atento à porta. </i> <br/> <br/> Coloque o oficial imperial de elite."
   },
   {
     "key": "M_05_Deploy_Officer_2",
@@ -2212,7 +2212,7 @@
   {
     "key": "M_05_Control_Room",
     "en": "<i>You find a military control room overlooking the docking bay. Through the enormous glass viewing window, you see the </i>Freedom Fighter<i>, still clamped in place.</i><br/><br/>Place tiles 19A, 23A, 24A, 29A, and 35A.",
-    "pt": "<i> Você encontra uma sala de controle militar com vista para a baía de encaixe. Através da enorme janela de visualização de vidro, você vê o </i> Freedom Fighter <i>, ainda preso no lugar. </i> <br/> <br/> Coloque os ladrilhos 19A, 23A, 24A, 29A e 35A ."
+    "pt": "<i> Você encontra uma sala de controle militar com vista para a baía de encaixe. Através da enorme janela de visualização de vidro, você vê o </i> Freedom Fighter <i>, ainda preso no lugar. </i> <br/> <br/> Coloque os tiles 19A, 23A, 24A, 29A e 35A ."
   },
   {
     "key": "M_05_Control_Crates",
@@ -2317,12 +2317,12 @@
   {
     "key": "M_05_Shaft",
     "en": "<i>The maintenance shaft leads to serviceways on the hangar level.</i><br/><br/>Place tiles 25A, 27A, 29A, 33A, and 4 doors.",
-    "pt": "<i> O eixo de manutenção leva a manutenção no nível do hangar. </i> <br/> <br/> Coloque as telhas 25A, 27A, 29A, 33A e 4 portas."
+    "pt": "<i> O eixo de manutenção leva a manutenção no nível do hangar. </i> <br/> <br/> Coloque os tiles 25A, 27A, 29A, 33A e 4 portas."
   },
   {
     "key": "M_05_Deploy_4_Heroes",
     "en": "<i>Your fall is only slightly cushioned by a pile of spare refueling tubes.</i><br/><br/>Deploy the Rebels. Each hero tests , then suffers 2 minus the number of successes. If this would wound a hero, that hero suffers  until it has 1 health remaining instead.",
-    "pt": "<i> Sua queda é apenas ligeiramente amortecida por uma pilha de tubos sobressalentes de reabastecimento. </i> <br/> <br/> Implante os rebeldes. Cada herói testa  e sofre 2 menos o número de sucessos. Se isso ferir um herói, esse herói sofre  até que tenha 1 ponto de vida restante."
+    "pt": "<i> Sua queda é apenas ligeiramente amortecida por uma pilha de tubos sobressalentes de reabastecimento. </i> <br/> <br/> Coloque os rebeldes. Cada herói testa  e sofre 2 menos o número de sucessos. Se isso ferir um herói, esse herói sofre  até que tenha 1 ponto de vida restante."
   },
   {
     "key": "M_05_Escape_Objective_Message",
@@ -2382,7 +2382,7 @@
   {
     "key": "M_05_Reveal_Hangar",
     "en": "<i>You finally find a hangar with some promise.</i><br/><br/>Open the door. Place tiles 19A and 36A(2).",
-    "pt": "<i> Você finalmente encontra um hangar com alguma promessa. </i> <br/> <br/> Abra a porta. Coloque os ladrilhos A19A e 36A (2)."
+    "pt": "<i> Você finalmente encontra um hangar com alguma promessa. </i> <br/> <br/> Abra a porta. Coloque os tiles A19A e 36A (2)."
   },
   {
     "key": "M_05_Reveal_TIEs",
@@ -2436,18 +2436,18 @@
   },
   {
     "key": "M_05_Wait_Flavor",
-    "en": "<i>You keep the engine running and the boarding ramp down, but are prepared to leave at a moment’s notice.</i><br/><br/>When one or more Rebels is adjacent to the </i>Sentinel<i>-class shuttle, the heroes can choose to launch the shuttle.<br/><br/>  Objective Updated  <br/><br/>Launch the shuttle and escape with as many Rebels as you can.",
+    "en": "<i>You keep the engine running and the boarding ramp down, but are prepared to leave at a moment’s notice.</i><br/><br/>When one or more Rebels is adjacent to the </i>Sentinel<i>-class shuttle, the heroes can choose to launch the shuttle.<br/><br/>  Objective Updated  <br/><br/>Launch the shuttle escape with as many Rebels as you can.",
     "pt": "<i> Você mantém o motor em funcionamento e a rampa de embarque, mas está preparada para sair a qualquer momento. </i> <br/> <br/> Quando um ou mais Rebeldes são adjacentes ao <i> Sentinel </i> <i> ônibus de classe, os heróis podem optar por lançar o ônibus. <br/> <br/>  Objetivo Atualizado  <br/> <br/> Lançar o ônibus e escapar com tantos Rebeldes quanto possível."
   },
   {
     "key": "M_05_Reveal_Vader",
     "en": "<i>Your hopes for escape disappear as a fearsome figure strides into view. As his lightsaber ignites, bathing the walls in soft red light, you notice how narrow this hallway is.</i><br/><br/>Deploy Darth Vader. Darth Vader cannot be defeated.",
-    "pt": "<i> Suas esperanças de fuga desaparecem quando uma figura medonha entra em cena. Quando seu sabre de luz se acende, banhando as paredes em luz vermelha suave, você percebe o quão estreito é este corredor. </i> <br/> <br/> Implante Darth Vader. Darth Vader não pode ser derrotado."
+    "pt": "<i> Suas esperanças de fuga desaparecem quando uma figura medonha entra em cena. Quando seu sabre de luz se acende, banhando as paredes em luz vermelha suave, você percebe o quão estreito é este corredor. </i> <br/> <br/> Coloque Darth Vader. Darth Vader não pode ser derrotado."
   },
   {
     "key": "M_05_Reveal_Stormtroopers",
     "en": "<i>A squad of loyal stormtroopers accompany their master.</i><br/><br/>Deploy a regular Stormtrooper group. Assign it a color.",
-    "pt": "<i> Um esquadrão de stormtroopers leais acompanha seu mestre. </i> <br/> <br/> Implante um grupo regular de Stormtrooper. Atribuir uma cor."
+    "pt": "<i> Um esquadrão de stormtroopers leais acompanha seu mestre. </i> <br/> <br/> Coloque um grupo regular de Stormtrooper. Atribua uma cor."
   },
   {
     "key": "M_05_Add_Vader_2",
@@ -2462,7 +2462,7 @@
   {
     "key": "M_05_Self_Destruct",
     "en": "<i>The choking gas lingers.</i><br/><br/>Roll 1 {0} die. Each hero suffers  equal to the  results. Each hero may test . Each hero that succeeds reduces the  they suffer by 1.<br/><br/>Each other figure suffers 1.",
-    "pt": "<i> O gás sufocante permanece. </i> <br/> <br/> Rolo 1 {0} morre. Cada herói sofre  igual aos resultados . Cada herói pode testar . Cada herói que consegue reduzir o  eles sofrem por 1. <br/> <br/> Cada outro número sofre 1."
+    "pt": "<i> O gás sufocante permanece. </i> <br/> <br/> Role 1 {0} morre. Cada herói sofre  igual aos resultados . Cada herói pode fazer um teste . Cada herói que consegue reduzir o  eles sofrem por 1. <br/> <br/> Cada outro número sofre 1."
   },
   {
     "key": "M_05_Gas_Red",
@@ -2666,7 +2666,7 @@
   },
   {
     "key": "M_05_OBJ_10",
-    "en": "Launch the shuttle and escape with as many Rebels as you can.",
+    "en": "Launch the shuttle escape with as many Rebels as you can.",
     "pt": "Lançar o ônibus e escapar com tantos Rebeldes quanto possível."
   },
   {
@@ -2732,7 +2732,7 @@
   {
     "key": "M_07_Intro",
     "en": "<i>You trek along worn footpaths over the canyon, trying to keep a low profile with the anti-vehicle weapons you’ve brought.</i><br/><br/>Place tiles 02B, 05B, 07B, 11B, 18B(2), 31A, 32A(2), 36A(2), 38A, and 1 door.",
-    "pt": "<i> Você caminhe por trilhas desgastadas sobre o cânion, tentando manter um perfil discreto com as armas anti-veículo que trouxe. </i> <br/> <br/> Coloque as telhas 02B, 05B, 07B, 11B, 18B (2), 31A, 32A (2), 36A (2), 38A e 1 porta."
+    "pt": "<i> Você caminhe por trilhas desgastadas sobre o cânion, tentando manter um perfil discreto com as armas anti-veículo que trouxe. </i> <br/> <br/> Coloque os tiles 02B, 05B, 07B, 11B, 18B (2), 31A, 32A (2), 36A (2), 38A e 1 porta."
   },
   {
     "key": "M_07_Intro2",
@@ -2757,12 +2757,12 @@
   {
     "key": "M_07_Mortar_3 Hero",
     "en": "<i>You level off a small area on the cliff and set up the mortar, just like Lieutenant Talcon taught you. As the transport nears the bend, you double check your aim and drop in the heavy anti-tank round.</i><br/><br/>One hero tests . Another hero tests . A third hero tests .<br/><br/>Input the total successes.",
-    "pt": "<I> Você nivelar uma pequena área no penhasco e armar a argamassa, assim como o tenente Talcon lhe ensinou. À medida que o transporte se aproxima da curva, você checa sua pontaria e cai na rodada pesada anti-tanque. </i> <br/> <br/> Um herói testa . Outro herói testa . Um terceiro herói testa . <br/> <br/> Insira os sucessos totais."
+    "pt": "<I> Você nivelar uma pequena área no penhasco e armar a argamassa, assim como a tenente Talcon lhe ensinou. À medida que o transporte se aproxima da curva, você checa sua pontaria e cai na rodada pesada anti-tanque. </i> <br/> <br/> Um herói testa . Outro herói testa . Um terceiro herói testa . <br/> <br/> Insira os sucessos totais."
   },
   {
     "key": "M_07_Mortar_2 Hero",
     "en": "<i>You level off a small area on the cliff and set up the mortar, just like Lieutenant Talcon taught you. As the transport nears the bend, you double check your aim and drop in the heavy anti-tank round.</i><br/><br/>One hero tests . One hero tests . One hero tests . Limit two tests per hero.<br/><br/>Input the total successes.",
-    "pt": "<I> Você nivelar uma pequena área no penhasco e armar a argamassa, assim como o tenente Talcon lhe ensinou. À medida que o transporte se aproxima da curva, você checa sua pontaria e cai na rodada pesada anti-tanque. </i> <br/> <br/> Um herói testa . Um herói testa . Um herói testa . Limite de dois testes por herói. <br/> <br/> Insira o total de sucessos."
+    "pt": "<I> Você nivelar uma pequena área no penhasco e armar a argamassa, assim como a tenente Talcon lhe ensinou. À medida que o transporte se aproxima da curva, você checa sua pontaria e cai na rodada pesada anti-tanque. </i> <br/> <br/> Um herói testa . Um herói testa . Um herói testa . Limite de dois testes por herói. <br/> <br/> Insira o total de sucessos."
   },
   {
     "key": "M_07_Gun",
@@ -2777,12 +2777,12 @@
   {
     "key": "M_07_Stormtrooper Deployment",
     "en": "<i>A squad of stromtroopers pushes forward, searching for whoever fired the shell.</i><br/><br/>Deploy a regular Stormtrooper group as indicated. Assign it a color.",
-    "pt": "<i> Um esquadrão de stromtroopers empurra para a frente, procurando por quem disparou o projétil. </i> <br/> <br/> Implante um grupo regular do Stormtrooper como indicado. Atribuir uma cor."
+    "pt": "<i> Um esquadrão de stromtroopers empurra para a frente, procurando por quem disparou o projétil. </i> <br/> <br/> Coloque um grupo regular do Stormtrooper como indicado. Atribua uma cor."
   },
   {
     "key": "M_07_Start Playing",
     "en": "<i>With your target disabled, and the element of surprise still on your side, you grab your satchel charges and scramble down a rocky scree to engage the Imperial forces and breach the vehicle!</i><br/><br/>Deploy the Rebels.<br/><br/>  Objective Updated  <br/><br/>Breach the vehicle door.",
-    "pt": "<i> Com seu alvo desabilitado, e o elemento surpresa ainda ao seu lado, você pega suas cargas de mochila e desce um pedregulho rochoso para atacar as forças imperiais e quebrar o veículo! </i> <br/> <br / > Implante os Rebeldes. <br/> <br/>  Objetivo Atualizado  <br/> <br/> Quebrar a porta do veículo."
+    "pt": "<i> Com seu alvo desabilitado, e o elemento surpresa ainda ao seu lado, você pega suas cargas de mochila e desce um pedregulho rochoso para atacar as forças imperiais e quebrar o veículo! </i> <br/> <br / > Coloque os Rebeldes. <br/> <br/>  Objetivo Atualizado  <br/> <br/> Quebrar a porta do veículo."
   },
   {
     "key": "M_07_Reveal Canyon",
@@ -2792,7 +2792,7 @@
   {
     "key": "M_07_Reveal Canyon2",
     "en": "Place tiles 03B, 09B, 10B, 13B, 14B(2), 18B, 39B, and 1 door.",
-    "pt": "Coloque as telhas 03B, 09B, 10B, 13B, 14B (2), 18B, 39B e 1 porta."
+    "pt": "Coloque os tiles 03B, 09B, 10B, 13B, 14B (2), 18B, 39B e 1 porta."
   },
   {
     "key": "M_07_Canyon Objective Flavor",
@@ -2822,7 +2822,7 @@
   {
     "key": "M_07_Reveal Ship",
     "en": "<i>You are happy to find your ship tucked away in a secluded pocket of the canyon.</i><br/><br/>Place tiles 01B, 18B(2), and 39B.",
-    "pt": "<i> Você está feliz em encontrar a sua nave escondido em um bolso isolado do canyon. </i> <br/> <br/> Coloque as telhas 01B, 18B (2) e 39B."
+    "pt": "<i> Você está feliz em encontrar a sua nave escondido em um bolso isolado do canyon. </i> <br/> <br/> Coloque os tiles 01B, 18B (2) e 39B."
   },
   {
     "key": "M_07_Reveal Exit",
@@ -2851,7 +2851,7 @@
   },
   {
     "key": "M_07_Escape_Objective_Adjacent",
-    "en": "<i>\"Finally! I can’t sit here all day!\" your pilot shouts over the comms. \"Get that map on board, and let's get out of here!\"</i><br/><br/>If a hero is carrying the star map and all heroes are adjacent to the shuttle, select the shuttle, then select \"Escape\" to end the mission.<br/><br/>  Objective Updated  <br/><br/>Fight to the shuttle and escape with the star map.",
+    "en": "<i>\"Finally! I can’t sit here all day!\" your pilot shouts over the comms. \"Get that map on board, and let's get out of here!\"</i><br/><br/>If a hero is carrying the star map and all heroes are adjacent to the shuttle, select the shuttle, then select \"Escape\" to end the mission.<br/><br/>  Objective Updated  <br/><br/>Fight to the shuttle escape with the star map.",
     "pt": "<i> \"Finalmente, não posso ficar aqui o dia todo!\" seu piloto grita sobre as comunicações. \"Pegue o mapa a bordo e vamos sair daqui!\" </i> <br/> <br/> Se um herói estiver carregando o mapa estelar e todos os heróis estiverem ao lado do ônibus espacial, selecione o ônibus espacial e selecione \"Escape\" para acabar com a missão. <br/> <br/>  Objetivo Atualizado  <br/> <br/> Lute para o ônibus espacial e fuja com o mapa estelar."
   },
   {
@@ -2876,7 +2876,7 @@
   },
   {
     "key": "M_07_Objective_4",
-    "en": "Fight to the shuttle and escape with the star map.",
+    "en": "Fight to the shuttle escape with the star map.",
     "pt": "Lute para o ônibus espacial e fuja com o mapa estelar."
   },
   {
@@ -2921,7 +2921,7 @@
   },
   {
     "key": "M_07_Escape Info",
-    "en": "<i>The boarding ramp to your ship is lowered. Get the star map on board and escape.</i><br/><br/>If a hero is carrying the star map and all heroes are adjacent to the shuttle (in a highlighted space), select \"Escaper\" to end the mission.",
+    "en": "<i>The boarding ramp to your ship is lowered. Get the star map on board escape.</i><br/><br/>If a hero is carrying the star map and all heroes are adjacent to the shuttle (in a highlighted space), select \"Escaper\" to end the mission.",
     "pt": "<i> A rampa de embarque para a sua nave está abaixada. Obtenha o mapa das estrelas a bordo e escape. </i> <br/> <br/> Se um herói estiver carregando o mapa estelar e todos os heróis estiverem adjacentes ao ônibus espacial (em um espaço destacado), selecione \"Escaper\" para finalizar a missão."
   },
   {
@@ -2977,7 +2977,7 @@
   {
     "key": "M_07_Officer",
     "en": "<i>An officer looks up from his terminal, furious that you’ve breached his convoy.</i><br/><br/>Deploy the elite Imperial Officer.",
-    "pt": "<i> Um oficial olha para cima do seu terminal, furioso por você ter violado o comboio dele. </i> <br/> <br/> Implante o oficial imperial de elite."
+    "pt": "<i> Um oficial olha para cima do seu terminal, furioso por você ter violado o comboio dele. </i> <br/> <br/> Coloque o oficial imperial de elite."
   },
   {
     "key": "M_07_Reveal Crates",
@@ -3012,7 +3012,7 @@
   {
     "key": "M_07_Vehicle Setup",
     "en": "Place tiles 31A, 32A(2), and 36A(2).",
-    "pt": "Coloque os ladrilhos 31A, 32A (2) e 36A (2)."
+    "pt": "Coloque os tiles 31A, 32A (2) e 36A (2)."
   },
   {
     "key": "M_07_Gun Destroyed",
@@ -3027,7 +3027,7 @@
   {
     "key": "M_07_Gun Fires2",
     "en": "<i>The smoldering main gun fires!</i><br/><br/>Roll 1 red die. The closest Rebel in line of sight of the main gun, ignoring figures, suffers  equal to the  results.<br/><br/>Then main gun suffers  equal to the  results.<br/><br/>Has the main gun suffered 10?",
-    "pt": "<i> A arma principal latente é acionada! </i> <br/> <br/> Rolo 1 dado vermelho. O Rebelde mais próximo na linha de visão da arma principal, ignorando as figuras, sofre  igual aos resultados.. <br/> <br/> Então a arma principal sofre  igual aos resultados.. <br/> <br/> A arma principal sofreu 10?"
+    "pt": "<i> A arma principal latente é acionada! </i> <br/> <br/> Role 1 dado vermelho. O Rebelde mais próximo na linha de visão da arma principal, ignorando as figuras, sofre  igual aos resultados.. <br/> <br/> Então a arma principal sofre  igual aos resultados.. <br/> <br/> A arma principal sofreu 10?"
   },
   {
     "key": "M_07_Datapad Credits",
@@ -3112,7 +3112,7 @@
   {
     "key": "M_07_Peril_2",
     "en": "<b>Major Peril</b><br/><br/><i>The sun grows impossibly hotter, taking a heavy toll.</i><br/><br/>Each hero rolls 1 yellow die for each of their activation portraits, then suffers  equal to their  results and  equal to their  results.",
-    "pt": "<b> Grande Perigo </b> <br/> <br/> <i> O sol se torna incrivelmente mais quente, com um preço alto. </i> <br/> <br/> Cada herói joga 1 dado amarelo por cada um dos seus retratos de ativação, então, sofre  igual aos seus resultados and e  igual aos seus resultados ."
+    "pt": "<b> Grande Perigo </b> <br/> <br/> <i> O sol se torna incrivelmente mais quente, com um preço alto. </i> <br/> <br/> Cada herói joga 1 dado amarelo por cada um dos seus retratos de ativação, então, sofre  igual aos seus resultados e  igual aos seus resultados ."
   },
   {
     "key": "M_07_Peril_3",
