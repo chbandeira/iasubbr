@@ -10,7 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Data
 
-Static data (texts) is in the folder assets in files with extension .json (cam1.json, cam2.json, camt.json, tasks.json).
+Os dados (textos) estão estáticos nos arquivos na pasta assets com extensão .json (cam1.json, cam2.json, camt.json, tasks.json).
 
 ## Development server
 
