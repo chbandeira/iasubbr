@@ -21,12 +21,12 @@
   },
   {
     "key": "M_01_MAJOR_PERIL_1",
-    "en": "<b>Major Peril</b><br/><br/><i>A frag grenade lands at {0}’s feet explodes.</i><br/><br/>Roll 1 red die. Each figure on or adjacent to {0}’s space suffers  equal to the  results.",
+    "en": "<b>Major Peril</b><br/><br/><i>A frag grenade lands at {0}’s feet and explodes.</i><br/><br/>Roll 1 red die. Each figure on or adjacent to {0}’s space suffers  equal to the  results.",
     "pt": "<b> Grande Perigo </b> <br/> <br/> <i> Uma granada de fragmento aterrissa aos pés de {0} e explode. </i> <br/> <br/> Role 1 dado vermelho . Cada figura no espaço de {0} ou adjacente a ele sofre  igual aos resultados de ."
   },
   {
     "key": "M_01_MAJOR_PERIL_2",
-    "en": "<b>Major Peril</b><br/><br/><i>A shock grenade lands at {0}’s feet explodes.</i><br/><br/>Roll 1 yellow die. Each figure on or adjacent to {0}’s space suffers  equal to the  results and becomes Stunned.",
+    "en": "<b>Major Peril</b><br/><br/><i>A shock grenade lands at {0}’s feet and explodes.</i><br/><br/>Roll 1 yellow die. Each figure on or adjacent to {0}’s space suffers  equal to the  results and becomes Stunned.",
     "pt": "<b> Grande Perigo </b> <br/> <br/> <i> Uma granada de choque aterrissa aos pés de {0} e explode. </i> <br/> <br/> Role 1 dado amarelo . Cada figura no espaço de {0} ou adjacente a ele sofre  igual aos resultados e fica atordoada."
   },
   {
@@ -436,7 +436,7 @@
   },
   {
     "key": "M_02_OBJECTIVE_SHUTTLE",
-    "en": "Cover the crew members as they return to the shuttle escape.",
+    "en": "Cover the crew members as they return to the shuttle and escape.",
     "pt": "Cubra os membros da tripulação enquanto eles retornam ao ônibus e escapam."
   },
   {
@@ -1261,7 +1261,7 @@
   },
   {
     "key": "M_02_CREW_ALL_RESCUED",
-    "en": "<i>With the last of your crew members liberated, it’s time to make a quick escape. You cover the crew as they race back to their shuttle.</i><br/><br/>  Objective Updated  <br/><br/>Cover the crew members as they return to the shuttle escape.",
+    "en": "<i>With the last of your crew members liberated, it’s time to make a quick escape. You cover the crew as they race back to their shuttle.</i><br/><br/>  Objective Updated  <br/><br/>Cover the crew members as they return to the shuttle and escape.",
     "pt": "<i> Com o último dos seus tripulantes liberados, é hora de fazer uma fuga rápida. Você cobre a tripulação enquanto eles correm de volta para o ônibus. </i> <br/> <br/>  Objetivo Atualizado  <br/> <br/> Cubra os membros da tripulação enquanto eles retornam ao ônibus e escapam."
   },
   {
@@ -1876,7 +1876,7 @@
   },
   {
     "key": "M_04_Failure1",
-    "en": "<i>Outgunned, you flee back into the jungle. Blaster bolts whiz past your ears as you try not to trip over the roots. You lose your pursuers in the trees escape to the safety of your waiting ship.</i>",
+    "en": "<i>Outgunned, you flee back into the jungle. Blaster bolts whiz past your ears as you try not to trip over the roots. You lose your pursuers in the trees and escape to the safety of your waiting ship.</i>",
     "pt": "<i> Outgunned, você foge de volta para a selva. Os parafusos Blaster passam rapidamente por seus ouvidos enquanto você tenta não tropeçar nas raízes. Você perde seus perseguidores nas árvores e foge para a segurança da sua nave que está esperando. </i>"
   },
   {
@@ -2416,12 +2416,12 @@
   },
   {
     "key": "M_05_Depart_Option",
-    "en": "<i>With the engines running, escape is at hand.</i><br/><br/>When the shuttle is launched, each Rebel that is on or adjacent to the <i>Sentinel</i>-class shuttle escapes the Star Destroyer, but anyone else is left behind to face the Empire’s wrath. This will end the campaign.<br/><br/>Would you like to launch?",
+    "en": "<i>With the engines running, escape is at hand.</i><br/><br/>When the shuttle is launched, each Rebel that is on or adjacent to the <i>Sentinel</i>-class shuttle and escapes the Star Destroyer, but anyone else is left behind to face the Empire’s wrath. This will end the campaign.<br/><br/>Would you like to launch?",
     "pt": "<i> Com os motores funcionando, a fuga está à mão. </i> <br/> <br/> Quando o ônibus espacial é lançado, cada Rebelde que está em ou adjacente ao <i> Sentinel </i> -class O ônibus espacial escapa do Star Destroyer, mas qualquer um é deixado para trás para enfrentar a ira do Império. Isso encerrará a campanha. <br/> <br/> Gostaria de lançar?"
   },
   {
     "key": "M_05_Depart_Option_2",
-    "en": "<i>The shuttle is prepared to launch.</i><br/><br/>During a Rebel activation, if one or more Rebels is on or adjacent to the </i>Sentinel<i>-class shuttle, the heroes can choose to launch the shuttle.<br/><br/>When the shuttle is launched, each Rebel that is on or adjacent to the </i>Sentinel<i>-class shuttle escapes the Star Destroyer, but anyone else is left behind to face the Empire’s wrath. This will end the mission.",
+    "en": "<i>The shuttle is prepared to launch.</i><br/><br/>During a Rebel activation, if one or more Rebels is on or adjacent to the </i>Sentinel<i>-class shuttle, the heroes can choose to launch the shuttle.<br/><br/>When the shuttle is launched, each Rebel that is on or adjacent to the </i>Sentinel<i>-class shuttle and escapes the Star Destroyer, but anyone else is left behind to face the Empire’s wrath. This will end the mission.",
     "pt": "<i> O vaivém está preparado para ser lançado. </i> <br/> <br/> Durante a activação do Rebel, se um ou mais Rebeldes estiverem no ou adjacentes ao vaivém da <i> Sentinel <i>, os heróis podem escolher lançar o ônibus espacial. <br/> <br/> Quando o ônibus espacial é lançado, cada Rebelde que está em ou adjacente ao ônibus da classe Sentinel escapa do Star Destroyer, mas qualquer um mais fica para trás para enfrentar a ira do Império. Isso acabará com a missão."
   },
   {
@@ -2436,7 +2436,7 @@
   },
   {
     "key": "M_05_Wait_Flavor",
-    "en": "<i>You keep the engine running and the boarding ramp down, but are prepared to leave at a moment’s notice.</i><br/><br/>When one or more Rebels is adjacent to the </i>Sentinel<i>-class shuttle, the heroes can choose to launch the shuttle.<br/><br/>  Objective Updated  <br/><br/>Launch the shuttle escape with as many Rebels as you can.",
+    "en": "<i>You keep the engine running and the boarding ramp down, but are prepared to leave at a moment’s notice.</i><br/><br/>When one or more Rebels is adjacent to the </i>Sentinel<i>-class shuttle, the heroes can choose to launch the shuttle.<br/><br/>  Objective Updated  <br/><br/>Launch the shuttle and escape with as many Rebels as you can.",
     "pt": "<i> Você mantém o motor em funcionamento e a rampa de embarque, mas está preparada para sair a qualquer momento. </i> <br/> <br/> Quando um ou mais Rebeldes são adjacentes ao <i> Sentinel </i> <i> ônibus de classe, os heróis podem optar por lançar o ônibus. <br/> <br/>  Objetivo Atualizado  <br/> <br/> Lançar o ônibus e escapar com tantos Rebeldes quanto possível."
   },
   {
@@ -2666,7 +2666,7 @@
   },
   {
     "key": "M_05_OBJ_10",
-    "en": "Launch the shuttle escape with as many Rebels as you can.",
+    "en": "Launch the shuttle and escape with as many Rebels as you can.",
     "pt": "Lançar o ônibus e escapar com tantos Rebeldes quanto possível."
   },
   {
@@ -2851,7 +2851,7 @@
   },
   {
     "key": "M_07_Escape_Objective_Adjacent",
-    "en": "<i>\"Finally! I can’t sit here all day!\" your pilot shouts over the comms. \"Get that map on board, and let's get out of here!\"</i><br/><br/>If a hero is carrying the star map and all heroes are adjacent to the shuttle, select the shuttle, then select \"Escape\" to end the mission.<br/><br/>  Objective Updated  <br/><br/>Fight to the shuttle escape with the star map.",
+    "en": "<i>\"Finally! I can’t sit here all day!\" your pilot shouts over the comms. \"Get that map on board, and let's get out of here!\"</i><br/><br/>If a hero is carrying the star map and all heroes are adjacent to the shuttle, select the shuttle, then select \"Escape\" to end the mission.<br/><br/>  Objective Updated  <br/><br/>Fight to the shuttle and escape with the star map.",
     "pt": "<i> \"Finalmente, não posso ficar aqui o dia todo!\" seu piloto grita sobre as comunicações. \"Pegue o mapa a bordo e vamos sair daqui!\" </i> <br/> <br/> Se um herói estiver carregando o mapa estelar e todos os heróis estiverem ao lado do ônibus espacial, selecione o ônibus espacial e selecione \"Escape\" para acabar com a missão. <br/> <br/>  Objetivo Atualizado  <br/> <br/> Lute para o ônibus espacial e fuja com o mapa estelar."
   },
   {
@@ -2876,7 +2876,7 @@
   },
   {
     "key": "M_07_Objective_4",
-    "en": "Fight to the shuttle escape with the star map.",
+    "en": "Fight to the shuttle and escape with the star map.",
     "pt": "Lute para o ônibus espacial e fuja com o mapa estelar."
   },
   {
@@ -2921,7 +2921,7 @@
   },
   {
     "key": "M_07_Escape Info",
-    "en": "<i>The boarding ramp to your ship is lowered. Get the star map on board escape.</i><br/><br/>If a hero is carrying the star map and all heroes are adjacent to the shuttle (in a highlighted space), select \"Escaper\" to end the mission.",
+    "en": "<i>The boarding ramp to your ship is lowered. Get the star map on board and escape.</i><br/><br/>If a hero is carrying the star map and all heroes are adjacent to the shuttle (in a highlighted space), select \"Escaper\" to end the mission.",
     "pt": "<i> A rampa de embarque para a sua nave está abaixada. Obtenha o mapa das estrelas a bordo e escape. </i> <br/> <br/> Se um herói estiver carregando o mapa estelar e todos os heróis estiverem adjacentes ao ônibus espacial (em um espaço destacado), selecione \"Escaper\" para finalizar a missão."
   },
   {
