@@ -7,32 +7,32 @@
   {
     "key": "M_01_DESC",
     "en": "<i>The Rebellion scrambles to evacuate its base on Yavin 4 before the Empire can send reinforcements following the destruction of the Death Star. Will you escape with your lives?</i>",
-    "pt": "<i> A Rebelião luta para evacuar sua base em Yavin 4 antes que o Império possa enviar reforços após a destruição da Estrela da Morte. Vocês vão escapar com suas vidas? </i>"
+    "pt": "<i> A Rebelião luta para evacuar sua base em Yavin 4 antes que o Império possa enviar reforços após a destruição da Estrela da Morte. Vocês irão escapar com suas vidas? </i>"
   },
   {
     "key": "M_01_MINOR_PERIL_1",
     "en": "<b>Minor Peril</b><br/><br/><i>The stress of the battle is starting to get to you.</i><br/><br/>Each hero may test . Each hero that does not pass suffers 1.",
-    "pt": "<b> Minor Peril </b> <br/> <br/> <i> O estresse da batalha está começando a chegar até você. </i> <br/> <br/> Cada herói pode fazer um teste . Cada herói que não passar sofre 1."
+    "pt": "<b> Perigo Menor </b> <br/> <br/> <i> O estresse da batalha está começando a chegar até você. </i> <br/> <br/> Cada herói pode fazer um teste . Cada herói que não passar sofre 1."
   },
   {
     "key": "M_01_MINOR_PERIL_2",
     "en": "<b>Minor Peril</b><br/><br/><i>The oppressive jungle heat saps your strength.</i><br/><br/>Each hero may test . Each hero that does not pass suffers 1.",
-    "pt": "<b> Minor Peril </b> <br/> <br/> <i> O calor opressivo na selva consome a sua força. </i> <br/> <br/> Cada herói pode fazer um teste . Cada herói que não passar sofre 1."
+    "pt": "<b> Perigo Menor </b> <br/> <br/> <i> O calor opressivo na selva consome a sua força. </i> <br/> <br/> Cada herói pode fazer um teste . Cada herói que não passar sofre 1."
   },
   {
     "key": "M_01_MAJOR_PERIL_1",
     "en": "<b>Major Peril</b><br/><br/><i>A frag grenade lands at {0}’s feet and explodes.</i><br/><br/>Roll 1 red die. Each figure on or adjacent to {0}’s space suffers  equal to the  results.",
-    "pt": "<b> Grande Perigo </b> <br/> <br/> <i> Uma granada de fragmento aterrissa aos pés de {0} e explode. </i> <br/> <br/> Role 1 dado vermelho . Cada figura no espaço de {0} ou adjacente a ele sofre  igual aos resultados de ."
+    "pt": "<b> Perigo Maior </b> <br/> <br/> <i> Uma granada de fragmento aterrissa aos pés de {0} e explode. </i> <br/> <br/> Role 1 dado vermelho. Cada figura no espaço de {0} ou adjacente a ele sofre  igual aos resultados de ."
   },
   {
     "key": "M_01_MAJOR_PERIL_2",
     "en": "<b>Major Peril</b><br/><br/><i>A shock grenade lands at {0}’s feet and explodes.</i><br/><br/>Roll 1 yellow die. Each figure on or adjacent to {0}’s space suffers  equal to the  results and becomes Stunned.",
-    "pt": "<b> Grande Perigo </b> <br/> <br/> <i> Uma granada de choque aterrissa aos pés de {0} e explode. </i> <br/> <br/> Role 1 dado amarelo . Cada figura no espaço de {0} ou adjacente a ele sofre  igual aos resultados e fica atordoada."
+    "pt": "<b> Perigo Maior </b> <br/> <br/> <i> Uma granada de choque aterrissa aos pés de {0} e explode. </i> <br/> <br/> Role 1 dado amarelo. Cada figura no espaço de {0} ou adjacente a ele sofre  igual aos resultados e fica atordoada."
   },
   {
     "key": "M_01_CRATE",
     "en": "<i>This crate of supplies was left behind in the rush to evacuate. Perhaps it contains something useful.</i><br/><br/>A hero can interact with this crate to open it.",
-    "pt": "<i> Esta caixa de suprimentos foi deixada para trás na pressa de evacuar. Talvez contenha algo útil. </i> <br/> <br/> Um herói pode interagir com este engradado para abri-lo."
+    "pt": "<i> Esta caixa de suprimentos foi deixada para trás na pressa de evacuar. Talvez contenha algo útil. </i> <br/> <br/> Um herói pode interagir com esta caixa para abri-lo."
   },
   {
     "key": "M_01_DOOR_1",
@@ -42,12 +42,12 @@
   {
     "key": "M_01_DOOR_2",
     "en": "<i>This door leads deeper into the base. Keep the Imperial forces away from it as long as you can.</i><br/><br/>{0}",
-    "pt": "<i> Esta porta leva mais fundo na base. Mantenha as forças imperiais longe dela o máximo que puder. </i> <br/> <br/> {0}"
+    "pt": "<i> Esta porta leva mais a fundo na base. Mantenha as forças imperiais longe dela o máximo que puder. </i> <br/> <br/> {0}"
   },
   {
     "key": "M_01_OBJECTIVE_PROBES",
     "en": "Defeat the Probe Droids.",
-    "pt": "Derrote os Droides Probe."
+    "pt": "Derrote os Probe Droids."
   },
   {
     "key": "M_01_OBJECTIVE_BUY_TIME",
@@ -67,37 +67,37 @@
   {
     "key": "M_01_EPROBE_DEPLOYS",
     "en": "<i>You are sharing your reports from your latest patrols when you hear an unusual humming sound coming from the direction of the forest. You turn slowly, eyes searching the dense overgrowth for the source of the sound. Then you see it: an Imperial probe droid!</i><br/><br/>Deploy the elite Probe Droid.",
-    "pt": "<i> Você está compartilhando seus relatórios de suas últimas patrulhas quando ouve um som incomum vindo da direção da floresta. Você gira devagar, os olhos procurando o denso crescimento da fonte do som. Então você vê: um droid de sonda imperial! </i> <br/> <br/> Coloque o Droid de sonda de elite."
+    "pt": "<i> Você está compartilhando seus relatórios de suas últimas patrulhas quando ouve um som incomum vindo da direção da floresta. Você gira devagar, os olhos procurando o denso crescimento da fonte do som. Então você vê: um probe droid Imperial! </i> <br/> <br/> Coloque o Probe Droid de elite."
   },
   {
     "key": "M_01_PROBES_DEPLOY",
     "en": "<i>As you raise your weapon to attack the droid, similar humming noises begin on either side of you, and you spot two more probe droids emerging from the cover of the trees!</i><br/><br/>Deploy a regular Probe Droid. Assign it a color.",
-    "pt": "<i> Enquanto você levanta sua arma para atacar o dróide, barulhos semelhantes começam de ambos os seus lados, e você vê mais dois dróides sonda surgindo da cobertura das árvores! </i> <br/> <br/> Coloque um Droid Probe regular. Atribua uma cor."
+    "pt": "<i> Enquanto você levanta sua arma para atacar o dróide, barulhos semelhantes começam de ambos os seus lados, e você vê mais dois probe droids surgindo da cobertura das árvores! </i> <br/> <br/> Coloque um Probe Droid regular. Atribua uma cor."
   },
   {
     "key": "M_01_PROBES_DEPLOY_2",
     "en": "Deploy a regular Probe Droid. Assign it a color.",
-    "pt": "Coloque um Droid Probe regular. Atribua uma cor."
+    "pt": "Coloque um Probe Droid regular. Atribua uma cor."
   },
   {
     "key": "M_01_KILL_PROBES",
     "en": "<i>You radio in to the command center to report the probe droids. \"Take them out! Quickly!\" a woman's voice replies. This is the officer on duty, Lieutenant Talcon. \"If they signal back to their ship, the Empire will know where to send their troops!\"<br/><br/>You need to defeat the probe droids before they can signal their ship.</i><br/><br/>  Objective Updated  <br/><br/>Defeat the Probe Droids.",
-    "pt": "<i> Você liga para o centro de comando para reportar os dróides da sonda. \"Leve-os para fora! Rápido!\" uma voz de mulher responde. Esta é a oficial de serviço, tenente Talcon. \"Se eles comunicarem de volta para a nave, o Império saberá para onde enviar suas tropas!\" <br/> <br/> Você precisa derrotar os dróides da sonda antes que eles possam sinalizar para sua nave. </i> <br/> <br/>  Objetivo Atualizado  <br/> <br/> Derrote os Droides Probe."
+    "pt": "<i> Você liga para o centro de comando para reportar os probe droids. \"Leve-os para fora! Rápido!\" uma voz de mulher responde. Esta é a oficial de serviço, tenente Talcon. \"Se eles comunicarem de volta para a nave, o Império saberá para onde enviar suas tropas!\" <br/> <br/> Você precisa derrotar os probe droids antes que eles possam sinalizar para sua nave. </i> <br/> <br/>  Objetivo Atualizado  <br/> <br/> Derrote os Probe Droids."
   },
   {
     "key": "M_01_PROBES_ALERT",
     "en": "<i>The surviving probe droids extend their antennae and broadcast their location to their ship. You can be sure that more Imperial forces are on the way!</i>",
-    "pt": "<i> Os droides sobreviventes da sonda ampliam suas antenas e transmitem sua localização para a nave. Você pode ter certeza que mais forças imperiais estão a caminho! </i>"
+    "pt": "<i> Os probe droids sobreviventes ampliam suas antenas e transmitem sua localização para a nave. Você pode ter certeza que mais forças imperiais estão a caminho! </i>"
   },
   {
     "key": "M_01_PROBE_ALERT",
     "en": "<i>The surviving probe droid extends its antenna and broadcasts its location to its ship. You can be sure that more Imperial forces are on the way!</i>",
-    "pt": "<i> O droid sobrevivente da sonda estende sua antena e transmite sua localização para sua nave. Você pode ter certeza que mais forças imperiais estão a caminho! </i>"
+    "pt": "<i> O probe droid sobrevivente estende sua antena e transmite sua localização para sua nave. Você pode ter certeza que mais forças imperiais estão a caminho! </i>"
   },
   {
     "key": "M_01_PROBES_DEAD",
     "en": "<i>\"Good work taking out those probe droids!\" says Lieutenant Talcon. \"Several Imperial Star Destroyers have just been detected. You can be sure that more Imperial forces are on their way, but at least you bought us some extra time!\"</i>",
-    "pt": "<I> \"Bom trabalho acabando com os droides sonda!\" diz a tenente Talcon. \"Vários Imperial Star Destroyers acabaram de ser detectados. Você pode ter certeza de que mais forças imperiais estão a caminho, mas pelo menos você nos deu algum tempo extra!\" </i>"
+    "pt": "<I> \"Bom trabalho acabando com os probe droids!\" diz a tenente Talcon. \"Vários Imperial Star Destroyers acabaram de ser detectados. Você pode ter certeza de que mais forças imperiais estão a caminho, mas pelo menos você nos deu algum tempo extra!\" </i>"
   },
   {
     "key": "M_01_IMPERIALS_ARRIVE",
@@ -107,7 +107,7 @@
   {
     "key": "M_01_TROOPERS_PLACE",
     "en": "<i>The door to the base opens just long enough for three Rebel troopers to rush out onto the battlefield, and the door quickly closes behind them.</i><br/><br/>Deploy the regular Rebel Trooper group. Then each Rebel Trooper gains 6 movement points.",
-    "pt": "<i> A porta da base abre apenas o tempo suficiente para três soldados rebeldes correrem para o campo de batalha, e a porta rapidamente se fecha atrás deles. </i> <br/> <br/> Coloque o grupo Rebel Trooper. Então cada Soldado Rebelde ganha 6 pontos de movimento."
+    "pt": "<i> A porta da base abre apenas o tempo suficiente para três soldados rebeldes correrem para o campo de batalha, e a porta rapidamente se fecha atrás deles. </i> <br/> <br/> Coloque o grupo Rebel Trooper. Então cada Rebel Trooper ganha 6 pontos de movimento."
   },
   {
     "key": "M_01_STAY_ALIVE",
@@ -152,12 +152,12 @@
   {
     "key": "M_01_FIRST_DEFEAT_2_DEPLOY",
     "en": "<i>Another squad of Rebel troopers comes rushing out of the base to provide you with reinforcements.</i><br/><br/>Deploy the regular Rebel Trooper group.",
-    "pt": "<i> Outro esquadrão de soldados rebeldes vem correndo para fora da base para fornecer reforços. </i> <br/> <br/> Coloque o grupo Rebel Trooper."
+    "pt": "<i> Outro esquadrão de soldados rebeldes vem correndo para fora da base para fornecer reforços. </i> <br/> <br/> Coloque o grupo Rebel Trooper regular."
   },
   {
     "key": "M_01_FIRST_DEFEAT_2_REINFORCE",
     "en": "<i>More Rebel troopers come rushing out of the base to provide you with reinforcements.</i><br/><br/>Reinforce regular Rebel Troopers until there are 3 in the group.",
-    "pt": "<i> Mais tropas rebeldes saem correndo da base para fornecer reforços. </i> <br/> <br/> Reforce os Rebeldes regulares até que haja 3 no grupo."
+    "pt": "<i> Mais tropas rebeldes saem correndo da base para fornecer reforços. </i> <br/> <br/> Reforce os Rebel Troopers regulares até que haja 3 no grupo."
   },
   {
     "key": "M_01_FIRST_DEFEAT_3",
@@ -167,12 +167,12 @@
   {
     "key": "M_01_SECOND_DEFEAT_1",
     "en": "<i>The withering fire from the Imperial forces is taking its toll on your team. \"We’re nearly done loading the last of the transports,\" Lieutenant Talcon informs you over your comlink. \"We just need a little more time. I’ll clear your way to your ship if you need to make an escape.\" Another door opens on a remote signal from the command center.</i><br/><br/>Open the door. Place tiles 25B and 36B(2).",
-    "pt": "<i> O fogo devastador das forças imperiais está tomando seu pedágio em seu time. \"Estamos quase terminando de carregar o último dos transportes\", informa a tenente Talcon sobre seu comlink. \"Nós só precisamos de um pouco mais de tempo. Eu vou abrir caminho para a sua nave, se você precisar fugir.\" Outra porta se abre com um sinal remoto do centro de comando. </i> <br/> <br/> Abra a porta. Coloque os tiles 25B e 36B (2)."
+    "pt": "<i> O fogo devastador das forças imperiais está levando sofrimento ao seu time. \"Estamos quase terminando de carregar o último dos transportes\", informa a tenente Talcon sobre seu comlink. \"Nós só precisamos de um pouco mais de tempo. Eu vou abrir caminho para a sua nave, se você precisar fugir.\" Outra porta se abre com um sinal remoto do centro de comando. </i> <br/> <br/> Abra a porta. Coloque os tiles 25B e 36B (2)."
   },
   {
     "key": "M_01_SECOND_DEFEAT_3",
     "en": "<i>Through the smoke and haze from the blaster fire, you see the outline of a dark, imposing figure striding out of the jungle. It is not until a glowing red blade appears in the figure’s hand that you realize a Dark Lord of the Sith has arrived. You know that you have no chance of defeating Darth Vader.</i><br/><br/>Deploy Darth Vader. Darth Vader cannot be defeated.",
-    "pt": "<i> Através da fumaça e neblina do fogo, você vê o contorno de uma figura escura e imponente saindo da selva. Não é até que uma lâmina vermelha brilhante aparece na mão da figura que você percebe que um Lorde das Trevas dos Sith chegou. Você sabe que não tem chance de derrotar Darth Vader. </i> <br/> <br/> Coloque Darth Vader. Darth Vader não pode ser derrotado."
+    "pt": "<i> Através da fumaça e neblina do fogo, você vê o contorno de uma figura escura e imponente saindo da selva. Não é até que um sabre de luz vermelho  aparece na mão da figura que você percebe que um Lorde das Trevas dos Sith chegou. Você sabe que não tem chance de derrotar Darth Vader. </i> <br/> <br/> Coloque Darth Vader. Darth Vader não pode ser derrotado."
   },
   {
     "key": "M_01_VADER_NO_DEFEAT",
@@ -182,37 +182,37 @@
   {
     "key": "M_01_WIN",
     "en": "<i>\"That’s it! The last ship is off!\" Lieutenant Talcon shouts excitedly. \"Great work! Get yourselves to safety!\" You retreat through the base to your ship and quickly get aboard. Your pilot is already there, ready to take off as soon as everyone is accounted for.</i>{0}",
-    "pt": "<i> \"É isso! O última nave está desligado!\" A tenente Talcon grita animadamente. \"Ótimo trabalho! Sigam-se em segurança!\" Você recua através da base para a sua nave e rapidamente embarca. Seu piloto já está lá, pronto para decolar assim que todos forem contabilizados. </i> {0}"
+    "pt": "<i> \"É isso! A última nave está desligada!\" A tenente Talcon grita animadamente. \"Ótimo trabalho! Sigam em segurança!\" Você recua através da base para a sua nave e rapidamente embarca. Seu piloto já está lá, pronto para decolar assim que todos forem contabilizados. </i> {0}"
   },
   {
     "key": "M_01_WIN_2",
     "en": "<i>When the last of your team comes aboard, the small freighter takes off and rockets out of the docking bay. Your ship comes alongside the medium transport </i>Freedom Fighter<i> and the two ships leave Yavin 4’s atmosphere only to come face to face with an Imperial Star Destroyer. Fortunately, the Star Destroyer is already preoccupied hauling in another transport, allowing both your ship and the </i>Freedom Fighter<i> to make their escape into hyperspace.<br/><br/>Thanks to your heroic efforts, all of the remaining transports had enough time to take off before the Imperials could reach them.</i>",
-    "pt": "<i> Quando o último de sua equipe vem a bordo, o pequeno cargueiro decola e dispara para fora do compartimento de ancoragem. Sua nave vem junto com o transporte médio </i> Freedom Fighter <i> e as duas naves deixam a atmosfera de Yavin 4 apenas para ficar cara a cara com um Destróier Estelar Imperial. Felizmente, o Star Destroyer já está preocupado em transportar outro transporte, permitindo que tanto a sua nave quanto o </i> Freedom Fighter <i> escapem para o hiperespaço. <br/> <br/> Graças aos seus esforços heróicos, todos dos transportes restantes tiveram tempo suficiente para decolar antes que os imperiais pudessem alcançá-los. </i>"
+    "pt": "<i> Quando o último de sua equipe vem a bordo, o pequeno cargueiro decola e dispara para fora do compartimento de ancoragem. Sua nave vem junto com o transporte médio </i> Freedom Fighter <i> e as duas naves deixam a atmosfera de Yavin 4 apenas para ficar cara a cara com um Star Destroyer Imperial. Felizmente, o Star Destroyer já está preocupado em transportar outro transporte, permitindo que tanto a sua nave quanto o </i> Freedom Fighter <i> escapem para o hiperespaço. <br/> <br/> Graças aos seus esforços heróicos, todos dos transportes restantes tiveram tempo suficiente para decolar antes que os imperiais pudessem alcançá-los. </i>"
   },
   {
     "key": "M_01_WIN_TROOPERS_SAVED",
     "en": "<i> The surviving Rebel troopers who had fought alongside you come aboard your ship, thankful to you for saving their lives.</i><br/><br/>You receive the regular Rebel Troopers as allies for the next mission.",
-    "pt": "<i> Os soldados rebeldes sobreviventes que lutaram ao seu lado vêm a bordo de sua nave, gratos a você por salvar suas vidas. </i> <br/> <br/> Você recebe os Rebeldes regulares como aliados para a próxima missão."
+    "pt": "<i> Os Rebel troopers sobreviventes que lutaram ao seu lado vêm a bordo de sua nave, gratos a você por salvar suas vidas. </i> <br/> <br/> Você recebe os Rebel Troopers regulares como aliados para a próxima missão."
   },
   {
     "key": "M_01_LOSS",
     "en": "<i>Battered and beaten, you limp back to your ship with some remaining Rebel troopers covering you. You manage to make it to your ship and wait briefly for the troopers to catch up, but none of them appear. Your pilot is already aboard the ship, ready to take off as soon as everyone else is aboard.</i>",
-    "pt": "<i> Battered e espancado, você coxeia de volta para a sua nave com alguns soldados rebeldes remanescentes cobrindo você. Você consegue chegar à sua nave e esperar brevemente para que os soldados se atualizem, mas nenhum deles aparece. Seu piloto já está a bordo da nave, pronto para decolar assim que todos estiverem a bordo. </i>"
+    "pt": "<i> Agredido e espancado, você manca de volta para a sua nave com alguns soldados rebeldes remanescentes cobrindo você. Você consegue chegar à sua nave e esperar brevemente para que os soldados se atualizem, mas nenhum deles aparece. Seu piloto já está a bordo da nave, pronto para decolar assim que todos estiverem a bordo. </i>"
   },
   {
     "key": "M_01_LOSS_2",
     "en": "<i>When the last of your team comes aboard, the small freighter takes off and rockets out of the docking bay. Your ship comes alongside the medium transport </i>Freedom Fighter<i> and the two ships leave Yavin 4’s atmosphere only to come face to face with an Imperial Star Destroyer. Fortunately, the Star Destroyer is already preoccupied hauling in another transport, allowing both your ship and the </i>Freedom Fighter<i> to make their escape into hyperspace.<br/><br/>Despite your efforts, {0} transports did not have enough time to launch and were captured before they could get off the ground.</i>",
-    "pt": "<i> Quando o último de sua equipe vem a bordo, o pequeno cargueiro decola e dispara para fora do compartimento de ancoragem. Sua nave vem junto com o transporte médio </i> Freedom Fighter <i> e as duas naves deixam a atmosfera de Yavin 4 apenas para ficar cara a cara com um Destróier Estelar Imperial. Felizmente, o Star Destroyer já está preocupado em transportar outro transporte, permitindo que tanto a sua nave quanto o </i> Freedom Fighter <i> escapem para o hiperespaço. <br/> <br/> Apesar de seus esforços, {0} os transportes não tiveram tempo suficiente para serem lançados e foram capturados antes que pudessem decolar. </i>"
+    "pt": "<i> Quando o último de sua equipe vem a bordo, o pequeno cargueiro decola e dispara para fora do compartimento de ancoragem. Sua nave vem junto com o transporte médio </i> Freedom Fighter <i> e as duas naves deixam a atmosfera de Yavin 4 apenas para ficar cara a cara com um Star Destroyer Imperial. Felizmente, o Star Destroyer já está preocupado em transportar outro transporte, permitindo que tanto a sua nave quanto o </i> Freedom Fighter <i> escapem para o hiperespaço. <br/> <br/> Apesar de seus esforços, {0} os transportes não tiveram tempo suficiente para serem lançados e foram capturados antes que pudessem decolar. </i>"
   },
   {
     "key": "M_01_LOSS_2_SINGULAR",
     "en": "<i>When the last of your team comes aboard, the small freighter takes off and rockets out of the docking bay. Your ship comes alongside the medium transport </i>Freedom Fighter<i> and the two ships leave Yavin 4’s atmosphere only to come face to face with an Imperial Star Destroyer. Fortunately, the Star Destroyer is already preoccupied hauling in another transport, allowing both your ship and the </i>Freedom Fighter<i> to make their escape into hyperspace.<br/><br/>Despite your efforts, one transport did not have enough time to launch and was captured before it could get off the ground.</i>",
-    "pt": "<i> Quando o último de sua equipe vem a bordo, o pequeno cargueiro decola e dispara para fora do compartimento de ancoragem. Sua nave vem junto com o transporte médio </i> Freedom Fighter <i> e as duas naves deixam a atmosfera de Yavin 4 apenas para ficar cara a cara com um Destróier Estelar Imperial. Felizmente, o Star Destroyer já está preocupado em transportar outro, permitindo que tanto a sua nave quanto o </i> Freedom Fighter <i> façam sua fuga para o hiperespaço. <br/> <br/> Apesar de seus esforços, um transporte fez não tem tempo suficiente para lançar e foi capturado antes que pudesse decolar. </i>"
+    "pt": "<i> Quando o último de sua equipe vem a bordo, o pequeno cargueiro decola e dispara para fora do compartimento de ancoragem. Sua nave vem junto com o transporte médio </i> Freedom Fighter <i> e as duas naves deixam a atmosfera de Yavin 4 apenas para ficar cara a cara com um Star Destroyer Imperial. Felizmente, o Star Destroyer já está preocupado em transportar outro, permitindo que tanto a sua nave quanto o </i> Freedom Fighter <i> façam sua fuga para o hiperespaço. <br/> <br/> Apesar de seus esforços, um transporte fez não tem tempo suficiente para lançar e foi capturado antes que pudesse decolar. </i>"
   },
   {
     "key": "M_02_NAME",
     "en": "Search for Darpik",
-    "pt": "Pesquisa por Darpik"
+    "pt": "Busca por Darpik"
   },
   {
     "key": "M_02_DESC",
@@ -282,7 +282,7 @@
   {
     "key": "M_02_LOCATION_3",
     "en": "furnace room",
-    "pt": "sala do Forno"
+    "pt": "sala do forno"
   },
   {
     "key": "M_02_LOCATION_3_LABEL",
@@ -292,7 +292,7 @@
   {
     "key": "M_02_DOOR_1",
     "en": "on the right",
-    "pt": "a direita"
+    "pt": "à direita"
   },
   {
     "key": "M_02_DOOR_2",
@@ -312,7 +312,7 @@
   {
     "key": "M_02_CRATE_SELECT",
     "en": "<i>This crate may have something useful inside.</i><br/><br/>A hero can interact with this crate to open it.",
-    "pt": "<i> Esta caixa pode ter algo útil por dentro. </i> <br/> <br/> Um herói pode interagir com essa caixa para abri-la."
+    "pt": "<i> Esta caixa pode ter algo útil dentro. </i> <br/> <br/> Um herói pode interagir com essa caixa para abri-la."
   },
   {
     "key": "M_02_CRATE_OPEN",
@@ -347,7 +347,7 @@
   {
     "key": "M_02_TARGET",
     "en": "the closest Rebel mission token—if a Rebel within 1 space of that token can be the target of the attack, that Rebel becomes the target of the attack",
-    "pt": "a ficha de missão Rebelde mais próxima - se um Rebelde dentro de 1 espaço desse token puder ser o alvo do ataque, esse Rebel se torna o alvo do ataque"
+    "pt": "a ficha de missão Rebelde mais próxima - se um Rebelde dentro de 1 espaço desse token puder ser o alvo do ataque, esse Rebelde se torna o alvo do ataque"
   },
   {
     "key": "M_02_TARGET_DEADLY",
@@ -357,12 +357,12 @@
   {
     "key": "M_02_MALE_RECOGNIZE",
     "en": " You recognize this person from the docking bay holocam records. He had been among those who abducted the </i>Freedom Fighter<i>’s crew.",
-    "pt": "Você reconhece essa pessoa dos registros holocam do docking bay. Ele estava entre aqueles que seqüestraram a tripulação do Freedom Fighter."
+    "pt": "Você reconhece essa pessoa dos registros holocam da baía de ancoragem. Ela estava entre aqueles que seqüestraram a tripulação do Freedom Fighter."
   },
   {
     "key": "M_02_FEMALE_RECOGNIZE",
     "en": " You recognize this person from the docking bay holocam records. She had been among those who abducted the </i>Freedom Fighter<i>’s crew.",
-    "pt": "Você reconhece essa pessoa dos registros holocam do docking bay. Ela estava entre aqueles que seqüestraram a tripulação do Freedom Fighter."
+    "pt": "Você reconhece essa pessoa dos registros holocam da baía de ancoragem. Ela estava entre aqueles que seqüestraram a tripulação do Freedom Fighter."
   },
   {
     "key": "M_02_ACCOMPLICE_ATTACKS",
@@ -372,7 +372,7 @@
   {
     "key": "M_02_ACCOMPLICE_SHOOT",
     "en": "<i>As you turn your back to the {0}, you hear the click of a weapon safety just before you feel a sharp pain in your back.</i><br/><br/>Roll 1 blue and 1 green die. You suffer  equal to the  results.",
-    "pt": "<i> Ao virar as costas para o {0}, você ouve o clique de uma arma segura antes de sentir uma dor aguda nas costas. </i> <br/> <br/> Role 1 azul e 1 morrer verde. Você sofre  igual aos resultados.."
+    "pt": "<i> Ao virar as costas para o {0}, você ouve o clique de uma arma segura antes de sentir uma dor aguda nas costas. </i> <br/> <br/> Role 1 dado azul e 1 verde. Você sofre  igual aos resultados ."
   },
   {
     "key": "M_02_ACCOMPLICE_SHOOT_2",
@@ -387,27 +387,27 @@
   {
     "key": "M_02_MINOR_PERIL_1",
     "en": "<b>Minor Peril</b><br/><br/><i>The stench of the garbage dump assaults your nostrils, making you gag.</i><br/><br/>Each Rebel on tile 19B or a tile connected to it suffers 1.",
-    "pt": "<b> Minor Peril </b> <br/> <br/> <i> O fedor do depósito de lixo assalta suas narinas, fazendo você engasgar. </i> <br/> <br/> Cada rebelde no tile 19B ou um ladrilho conectado a ele sofre 1."
+    "pt": "<b> Perigo Menor </b> <br/> <br/> <i> O fedor do depósito de lixo ataca suas narinas, fazendo você engasgar. </i> <br/> <br/> Cada rebelde no tile 19B ou um tile conectado a ele sofre 1."
   },
   {
     "key": "M_02_MINOR_PERIL_2",
     "en": "<b>Minor Peril</b><br/><br/><i>Radiant heat from the furnace at the end of the conveyor has turned the room into an oven, made worse by the singeing energy of flying blaster bolts.</i><br/><br/>Each Rebel on tile 20B, or a tile connected to it, suffers 1.",
-    "pt": "<b> Minor Peril </b> <br/> <br/> <i> O aquecimento radiante do forno no final do transportador transformou o ambiente em um forno, agravado pela energia de queima de parafusos blaster. </i> <br/> <br/> Cada Rebel no tile 20B, ou um tile conectado a ele, sofre 1."
+    "pt": "<b> Perigo Menor </b> <br/> <br/> <i> O aquecimento radiante da fornalha no final do transportador transformou o ambiente em um forno, agravado pela energia de queima de parafusos blaster. </i> <br/> <br/> Cada Rebelde no tile 20B, ou um tile conectado a ele, sofre 1."
   },
   {
     "key": "M_02_MINOR_PERIL_3",
     "en": "<b>Minor Peril</b><br/><br/><i>Radiant heat from the furnace has turned the room into an oven, made worse by the singeing energy of flying blaster bolts.</i><br/><br/>Each Rebel on tile 23B, 24B, or a tile connected to either, suffers 1.",
-    "pt": "<b> Minor Peril </b> <br/> <br/> <i> O aquecimento radiante do forno transformou a sala em um forno, agravada pela energia de queima de parafusos blaster. </i> <br> /> <br/> Cada Rebel no tile 23B, 24B, ou um tile conectada a um, sofre 1."
+    "pt": "<b> Perigo Menor </b> <br/> <br/> <i> O aquecimento radiante da fornalha transformou a sala em um forno, agravada pela energia de queima de parafusos blaster. </i> <br> /> <br/> Cada Rebelde no tile 23B, 24B, ou um tile conectada a um, sofre 1."
   },
   {
     "key": "M_02_MAJOR",
     "en": "<b>Major Peril</b><br/><br/><i>The relentless assassin droid IG-88 moves with inhuman speed, unleashing a barrage of blaster fire on the nearest threat.</i><br/><br/>IG-88 <b>attacks</b> « the closest Rebel » using 1 green and 1 yellow die and the following surge priority:<br/><br/>: Recover 3<br/>: +2",
-    "pt": "<b> Major Peril </b> <br/> <br/> <i> O implacável droid assassino IG-88 move-se com uma velocidade desumana, desencadeando uma barragem de fogo explosivo na ameaça mais próxima. </i> <br / > <br/> IG-88 <b> ataca </b> «o rebelde mais próximo» usando 1 dado verde e 1 dado amarelo e a seguinte prioridade: <br/> <br/> : Recuperar 3 <br / > : + 2"
+    "pt": "<b> Perigo Maior </b> <br/> <br/> <i> O implacável droid assassino IG-88 move-se com uma velocidade desumana, desencadeando uma barragem de fogo explosivo na ameaça mais próxima. </i> <br / > <br/> IG-88 <b> ataca </b> «o rebelde mais próximo» usando 1 dado verde e 1 dado amarelo e a seguinte prioridade: <br/> <br/> : Recuperar 3 <br / > : + 2"
   },
   {
     "key": "M_02_MAJOR_ALT",
     "en": "<b>Major Peril</b><br/><br/><i>One among the enemy forces emerges as the top threat, unleashing a brutal attack on the closest member of your squad.</i><br/><br/>The Imperial figure with the highest figure cost that can attack <b>attacks</b> « the closest Rebel ».",
-    "pt": "<b> Major Peril </b> <br/> <br/> <i> Uma das forças inimigas surge como a principal ameaça, desencadeando um ataque brutal contra o membro mais próximo do seu esquadrão. </i> <br / > <br/> A figura imperial com o maior custo de figura que pode atacar <b> ataques </b> «o rebelde mais próximo»."
+    "pt": "<b> Perigo Maior </b> <br/> <br/> <i> Uma das forças inimigas surge como a principal ameaça, desencadeando um ataque brutal contra o membro mais próximo do seu esquadrão. </i> <br / > <br/> A figura imperial com o maior custo de figura que pode atacar <b> ataques </b> «o rebelde mais próximo»."
   },
   {
     "key": "M_02_DEADLY",
@@ -417,7 +417,7 @@
   {
     "key": "M_02_DEADLY_REPEAT",
     "en": "<b>Deadly Peril</b><br/><br/><i>A stray blaster bolt strikes this crew member dead.</i><br/><br/>Discard this Rebel mission token.",
-    "pt": "<b> Perigo Mortal </b> <br/> <br/> <i> Um raio explodido ataca esse membro da tripulação. </i> <br/> <br/> Descarte este marcador de missão Rebelde."
+    "pt": "<b> Perigo Mortal </b> <br/> <br/> <i> Um raio desintegrador atinge esse membro da tripulação morto. </i> <br/> <br/> Descarte este marcador de missão Rebelde."
   },
   {
     "key": "M_02_OBJECTIVE_FIND_PEOPLE",
@@ -427,17 +427,17 @@
   {
     "key": "M_02_OBJECTIVE_FREE",
     "en": "Free all the captive members of the <i>Freedom Fighter</i>’s crew.",
-    "pt": "Libertem todos os membros cativos da tripulação do <i> Freedom Fighter </i>."
+    "pt": "Libertem todos os membros prisioneiros da tripulação do <i> Freedom Fighter </i>."
   },
   {
     "key": "M_02_OBJECTIVE_DOORS",
     "en": "Open the docking bay doors.",
-    "pt": "Abra as portas do compartimento de encaixe."
+    "pt": "Abra as portas do compartimento do compartimento."
   },
   {
     "key": "M_02_OBJECTIVE_SHUTTLE",
     "en": "Cover the crew members as they return to the shuttle and escape.",
-    "pt": "Cubra os membros da tripulação enquanto eles retornam ao ônibus e escapam."
+    "pt": "Cubra os membros da tripulação enquanto eles retornam ao transporte e escapam."
   },
   {
     "key": "M_02_INTRO",
@@ -1977,7 +1977,7 @@
   {
     "key": "M_04_Peril_1",
     "en": "<b>Minor Peril</b><br/><br/><i>A security turret pops from a wall panel and gets one shot before you destroy it.</i><br/><br/>A turret <b>attacks</b> the Rebel farthest from tile 06A using 1 blue and 1 red die. This attack does not require Accuracy or line of sight.",
-    "pt": "<b> Minor Peril </b> <br/> <br/> <i> Uma torre de segurança aparece em um painel de parede e recebe um tiro antes de destruí-lo. </i> <br/> <br/> A torre <b> ataca </b> o Rebel mais distante do azulejo 06A usando 1 azul e 1 dado vermelho. Este ataque não requer precisão ou linha de visão."
+    "pt": "<b> Perigo Menor </b> <br/> <br/> <i> Uma torre de segurança aparece em um painel de parede e recebe um tiro antes de destruí-lo. </i> <br/> <br/> A torre <b> ataca </b> o Rebel mais distante do azulejo 06A usando 1 azul e 1 dado vermelho. Este ataque não requer precisão ou linha de visão."
   },
   {
     "key": "M_04_Peril_2",
@@ -2377,7 +2377,7 @@
   {
     "key": "M_05_Endcap",
     "en": "<i>This hangar sits empty and offers no escape.</i><br/><br/>Open the door. Place tile 36A.<br/><br/>  Objective Updated  <br/><br/>Find a hangar with an escape ship.",
-    "pt": "<i> Este hangar fica vazio e não oferece escapatória. </i> <br/> <br/> Abra a porta. Coloque o ladrilho 36A. <br/> <br/>  Objetivo Atualizado  <br/> <br/> Encontre um hangar com uma nave de fuga."
+    "pt": "<i> Este hangar fica vazio e não oferece escapatória. </i> <br/> <br/> Abra a porta. Coloque o tile 36A. <br/> <br/>  Objetivo Atualizado  <br/> <br/> Encontre um hangar com uma nave de fuga."
   },
   {
     "key": "M_05_Reveal_Hangar",
@@ -3107,7 +3107,7 @@
   {
     "key": "M_07_Peril_1",
     "en": "<b>Minor Peril</b><br/><br/><i>The midday sun beats down, the heat sapping your energy.</i><br/><br/>Each hero rolls 1 yellow die for each of their activation portraits, then suffers  equal to their  results.",
-    "pt": "<b> Minor Peril </b> <br/> <br/> <i> O sol do meio-dia bate, o calor minando sua energia. </i> <br/> <br/> Cada herói rola 1 dado amarelo para cada um dos seus retratos de ativação, então, sofre  igual aos seus resultados ."
+    "pt": "<b> Perigo Menor </b> <br/> <br/> <i> O sol do meio-dia bate, o calor minando sua energia. </i> <br/> <br/> Cada herói rola 1 dado amarelo para cada um dos seus retratos de ativação, então, sofre  igual aos seus resultados ."
   },
   {
     "key": "M_07_Peril_2",
