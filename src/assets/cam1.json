@@ -357,12 +357,12 @@
   {
     "key": "M_02_MALE_RECOGNIZE",
     "en": " You recognize this person from the docking bay holocam records. He had been among those who abducted the </i>Freedom Fighter<i>’s crew.",
-    "pt": "Você reconhece essa pessoa dos registros holocam da baía de ancoragem. Ela estava entre aqueles que seqüestraram a tripulação do Freedom Fighter."
+    "pt": "Você reconhece essa pessoa dos registros holocam do compartimento de ancoragem. Ela estava entre aqueles que seqüestraram a tripulação do Freedom Fighter."
   },
   {
     "key": "M_02_FEMALE_RECOGNIZE",
     "en": " You recognize this person from the docking bay holocam records. She had been among those who abducted the </i>Freedom Fighter<i>’s crew.",
-    "pt": "Você reconhece essa pessoa dos registros holocam da baía de ancoragem. Ela estava entre aqueles que seqüestraram a tripulação do Freedom Fighter."
+    "pt": "Você reconhece essa pessoa dos registros holocam do compartimento de ancoragem. Ela estava entre aqueles que seqüestraram a tripulação do Freedom Fighter."
   },
   {
     "key": "M_02_ACCOMPLICE_ATTACKS",
@@ -442,12 +442,12 @@
   {
     "key": "M_02_INTRO",
     "en": "<i>The crew members went missing during a resupply mission on this mountainous Mid Rim world. You track the missing crew’s shuttle to a docking bay in a remote, sparsely populated region of the planet and decide that will be a good place to start looking.</i><br/><br/>Place tiles 01B, 18B(2), 21B, 25B, 26B, 36B(2), 39B, and 3 doors.",
-    "pt": "<i> Os membros da tripulação desapareceram durante uma missão de reabastecimento neste mundo montanhoso de Mid Rim. Você rastreia o transporte da tripulação ausente para uma baía de ancoragem em uma região remota e pouco povoada do planeta e decide que esse será um bom local para começar a procurar. <br/> <br/> Coloque as peças de tiles 01B, 18B (2), 21B, 25B, 26B, 36B (2), 39B e 3 portas."
+    "pt": "<i> Os membros da tripulação desapareceram durante uma missão de reabastecimento neste mundo montanhoso de Mid Rim. Você rastreia o transporte da tripulação ausente para um compartimento de ancoragem em uma região remota e pouco povoada do planeta e decide que esse será um bom local para começar a procurar. <br/> <br/> Coloque as peças de tiles 01B, 18B (2), 21B, 25B, 26B, 36B (2), 39B e 3 portas."
   },
   {
     "key": "M_02_ENTRANCE",
     "en": "<i>You enter the spaceport complex to which the docking bay is attached. To your left is the docking bay where the crew’s shuttle is docked. To your right is a cantina, with the sound of live music and the smell of fresh-cooked food wafting out through the open door.</i><br/><br/>Deploy the Rebels.",
-    "pt": "<i> Você entra no complexo do porto espacial ao qual o compartimento de encaixe está conectado. À sua esquerda, está a doca onde o ônibus da tripulação está ancorado. À sua direita está uma cantina, com o som de música ao vivo e o cheiro de comida recém-cozida flutuando pela porta aberta. <br/> <br/> Coloque os rebeldes."
+    "pt": "<i> Você entra no complexo do porto espacial ao qual o compartimento de ancoragem está conectado. À sua esquerda, está a doca onde o ônibus da tripulação está ancorado. À sua direita está uma cantina, com o som de música ao vivo e o cheiro de comida recém-cozida flutuando pela porta aberta. <br/> <br/> Coloque os rebeldes."
   },
   {
     "key": "M_02_CANTINA_PATRONS",
@@ -492,7 +492,7 @@
   {
     "key": "M_02_DOCKING_IMPERIALS",
     "en": "<i>A squad of Imperial troops enters the docking bay. If you don’t move quickly, they will capture the freed crew members, or worse!</i>",
-    "pt": "<i> Um esquadrão de tropas imperiais entra na baía. Se você não se mover rapidamente, eles irão capturar os membros da tripulação liberados, ou pior ainda! </i>"
+    "pt": "<i> Um esquadrão de tropas imperiais entra no compartimento. Se você não se mover rapidamente, eles irão capturar os membros da tripulação liberados, ou pior ainda! </i>"
   },
   {
     "key": "M_02_CANTINA_IMPERIALS",
@@ -647,7 +647,7 @@
   {
     "key": "M_02_TERMINAL_SURVEILLANCE",
     "en": "<i>You check the bay’s surveillance holocam recordings for any clues as to what happened to the missing crew. You rewind through the past several hours, during which the bay sits completely still. At last, you detect movement.<br/><br/>Playing back the recording, you see the members of the </i>Freedom Fighter<i>’s crew loading supplies into the shuttle when they suddenly come under attack. You see what appear to be stun blasts as the four crew members are quickly rendered motionless. Several figures enter the docking bay and collect the unconscious Rebels, carrying them out of the bay.</i>",
-    "pt": "<i> Você verifica as gravações Holocam de vigilância da baía em busca de pistas sobre o que aconteceu com a tripulação ausente. Você retrocede nas últimas horas, durante as quais a baía fica completamente parada. Finalmente, você detecta movimento. <br/> <br/> Reproduzindo a gravação, você vê os membros da tripulação do </i> Freedom Fighter <i> carregando suprimentos no ônibus quando eles de repente são atacados. Você vê o que parecem ser explosões de atordoamento quando os quatro membros da tripulação ficam rapidamente imóveis. Várias figuras entram na baía e recolhem os rebeldes inconscientes, levando-os para fora da baía. </i>"
+    "pt": "<i> Você verifica as gravações Holocam de vigilância do compartimento em busca de pistas sobre o que aconteceu com a tripulação ausente. Você retrocede nas últimas horas, durante as quais o compartimento fica completamente parada. Finalmente, você detecta movimento. <br/> <br/> Reproduzindo a gravação, você vê os membros da tripulação do </i> Freedom Fighter <i> carregando suprimentos no ônibus quando eles de repente são atacados. Você vê o que parecem ser explosões de atordoamento quando os quatro membros da tripulação ficam rapidamente imóveis. Várias figuras entram no compartimento e recolhem os rebeldes inconscientes, levando-os para fora do compartimento. </i>"
   },
   {
     "key": "M_02_TERMINAL_SURVEILLANCE_2",
@@ -662,7 +662,7 @@
   {
     "key": "M_02_TERMINAL_HACKED",
     "en": "<i>The terminal awaits a command.</i><br/><br/>A Rebel can interact with the terminal to open the docking bay doors.",
-    "pt": "<i> O terminal aguarda um comando. </i> <br/> <br/> Um Rebelde pode interagir com o terminal para abrir as portas do compartimento de encaixe."
+    "pt": "<i> O terminal aguarda um comando. </i> <br/> <br/> Um Rebelde pode interagir com o terminal para abrir as portas do compartimento de ancoragem."
   },
   {
     "key": "M_02_TERMINAL_BAY_DOORS_OPT",
@@ -672,7 +672,7 @@
   {
     "key": "M_02_TERMINAL_BAY_DOORS",
     "en": "<i>You use the security system to open the bay’s large overhead doors, making way for the shuttle to take off.</i><br/><br/>Discard this terminal.",
-    "pt": "<i> Você usa o sistema de segurança para abrir as grandes portas da baía, abrindo caminho para o ônibus espacial decolar. </i> <br/> <br/> Descarte este terminal."
+    "pt": "<i> Você usa o sistema de segurança para abrir as grandes portas do compartimento, abrindo caminho para o ônibus espacial decolar. </i> <br/> <br/> Descarte este terminal."
   },
   {
     "key": "M_02_BEGGAR",
@@ -682,7 +682,7 @@
   {
     "key": "M_02_BEGGAR_RECOGNIZE",
     "en": " You recognize the Bith from the docking bay security feed.",
-    "pt": "Você reconhece a cadela do feed de segurança do compartimento de encaixe."
+    "pt": "Você reconhece a cadela do feed de segurança do compartimento de ancoragem."
   },
   {
     "key": "M_02_BEGGAR_OPT_1",
@@ -1272,7 +1272,7 @@
   {
     "key": "M_02_CREW_ALL_ABOARD",
     "en": "<i>The surviving crew is now aboard the shuttle, but the docking bay doors have not been opened yet! The shuttle cannot take off until the doors are opened! Perhaps the terminal in the docking bay could be of use.</i><br/><br/>  Objective Updated  <br/><br/>Open the docking bay doors.",
-    "pt": "<i> A tripulação sobrevivente está agora a bordo do ônibus espacial, mas as portas do ancoradouro não foram abertas ainda! O ônibus espacial não pode decolar até que as portas sejam abertas! Talvez o terminal no compartimento de encaixe possa ser útil. </i> <br/> <br/>  Objetivo Atualizado  <br/> <br/> Abra as portas do compartimento de encaixe."
+    "pt": "<i> A tripulação sobrevivente está agora a bordo do ônibus espacial, mas as portas do ancoradouro não foram abertas ainda! O ônibus espacial não pode decolar até que as portas sejam abertas! Talvez o terminal no compartimento de ancoragem possa ser útil. </i> <br/> <br/>  Objetivo Atualizado  <br/> <br/> Abra as portas do compartimento de ancoragem."
   },
   {
     "key": "M_04_NAME",
@@ -2212,7 +2212,7 @@
   {
     "key": "M_05_Control_Room",
     "en": "<i>You find a military control room overlooking the docking bay. Through the enormous glass viewing window, you see the </i>Freedom Fighter<i>, still clamped in place.</i><br/><br/>Place tiles 19A, 23A, 24A, 29A, and 35A.",
-    "pt": "<i> Você encontra uma sala de controle militar com vista para a baía de encaixe. Através da enorme janela de visualização de vidro, você vê o </i> Freedom Fighter <i>, ainda preso no lugar. </i> <br/> <br/> Coloque os tiles 19A, 23A, 24A, 29A e 35A ."
+    "pt": "<i> Você encontra uma sala de controle militar com vista para o compartimento de ancoragem. Através da enorme janela de visualização de vidro, você vê o </i> Freedom Fighter <i>, ainda preso no lugar. </i> <br/> <br/> Coloque os tiles 19A, 23A, 24A, 29A e 35A ."
   },
   {
     "key": "M_05_Control_Crates",
@@ -2257,7 +2257,7 @@
   {
     "key": "M_05_Terminal_Test",
     "en": "<i>This terminal controls most of the heavy machinery in the bay, as well as the automated defense systems. You need to be careful to release your ship without damaging it.</i><br/><br/>Test .",
-    "pt": "<i> Este terminal controla a maioria das máquinas pesadas na baía, bem como os sistemas de defesa automatizados. Você precisa ter cuidado para liberar sua nave sem danificá-lo. </i> <br/> <br/> Teste ."
+    "pt": "<i> Este terminal controla a maioria das máquinas pesadas no compartimento, bem como os sistemas de defesa automatizados. Você precisa ter cuidado para liberar sua nave sem danificá-lo. </i> <br/> <br/> Teste ."
   },
   {
     "key": "M_05_Terminal_Partial",
