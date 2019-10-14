@@ -167,12 +167,12 @@
   {
     "key": "M_01_SECOND_DEFEAT_1",
     "en": "<i>The withering fire from the Imperial forces is taking its toll on your team. \"We’re nearly done loading the last of the transports,\" Lieutenant Talcon informs you over your comlink. \"We just need a little more time. I’ll clear your way to your ship if you need to make an escape.\" Another door opens on a remote signal from the command center.</i><br/><br/>Open the door. Place tiles 25B and 36B(2).",
-    "pt": "<i> O fogo devastador das forças imperiais está levando sofrimento ao seu time. \"Estamos quase terminando de carregar o último dos transportes\", informa a tenente Talcon sobre seu comlink. \"Nós só precisamos de um pouco mais de tempo. Eu vou abrir caminho para a sua nave, se você precisar fugir.\" Outra porta se abre com um sinal remoto do centro de comando. </i> <br/> <br/> Abra a porta. Coloque os tiles 25B e 36B (2)."
+    "pt": "<i> O fogo devastador das forças imperiais está levando sofrimento ao seu time. \"Estamos quase terminando de carregar o último dos transportes\", informe a tenente Talcon sobre seu comlink. \"Nós só precisamos de um pouco mais de tempo. Eu vou abrir caminho para a sua nave, se você precisar fugir.\" Outra porta se abre com um sinal remoto do centro de comando. </i> <br/> <br/> Abra a porta. Coloque os tiles 25B e 36B (2)."
   },
   {
     "key": "M_01_SECOND_DEFEAT_3",
     "en": "<i>Through the smoke and haze from the blaster fire, you see the outline of a dark, imposing figure striding out of the jungle. It is not until a glowing red blade appears in the figure’s hand that you realize a Dark Lord of the Sith has arrived. You know that you have no chance of defeating Darth Vader.</i><br/><br/>Deploy Darth Vader. Darth Vader cannot be defeated.",
-    "pt": "<i> Através da fumaça e neblina do fogo, você vê o contorno de uma figura escura e imponente saindo da selva. Não é até que um sabre de luz vermelho  aparece na mão da figura que você percebe que um Lorde das Trevas dos Sith chegou. Você sabe que não tem chance de derrotar Darth Vader. </i> <br/> <br/> Coloque Darth Vader. Darth Vader não pode ser derrotado."
+    "pt": "<i> Através da fumaça e neblina do fogo, você vê o contorno de uma figura escura e imponente saindo da selva. É quando um sabre de luz vermelho aparece na mão da figura que você percebe que o Lorde das Trevas dos Sith chegou. Você sabe que não tem chance de derrotar Darth Vader. </i> <br/> <br/> Coloque Darth Vader. Darth Vader não pode ser derrotado."
   },
   {
     "key": "M_01_VADER_NO_DEFEAT",
@@ -182,12 +182,12 @@
   {
     "key": "M_01_WIN",
     "en": "<i>\"That’s it! The last ship is off!\" Lieutenant Talcon shouts excitedly. \"Great work! Get yourselves to safety!\" You retreat through the base to your ship and quickly get aboard. Your pilot is already there, ready to take off as soon as everyone is accounted for.</i>{0}",
-    "pt": "<i> \"É isso! A última nave está desligada!\" A tenente Talcon grita animadamente. \"Ótimo trabalho! Sigam em segurança!\" Você recua através da base para a sua nave e rapidamente embarca. Seu piloto já está lá, pronto para decolar assim que todos forem contabilizados. </i> {0}"
+    "pt": "<i> \"É isso! A última nave está desligada!\" A tenente Talcon grita animada. \"Ótimo trabalho! Sigam em segurança!\" Você recua através da base para a sua nave e rapidamente embarca. Seu piloto já está lá, pronto para decolar assim que todos forem contabilizados. </i> {0}"
   },
   {
     "key": "M_01_WIN_2",
     "en": "<i>When the last of your team comes aboard, the small freighter takes off and rockets out of the docking bay. Your ship comes alongside the medium transport </i>Freedom Fighter<i> and the two ships leave Yavin 4’s atmosphere only to come face to face with an Imperial Star Destroyer. Fortunately, the Star Destroyer is already preoccupied hauling in another transport, allowing both your ship and the </i>Freedom Fighter<i> to make their escape into hyperspace.<br/><br/>Thanks to your heroic efforts, all of the remaining transports had enough time to take off before the Imperials could reach them.</i>",
-    "pt": "<i> Quando o último de sua equipe vem a bordo, o pequeno cargueiro decola e dispara para fora do compartimento de ancoragem. Sua nave vem junto com o transporte médio </i> Freedom Fighter <i> e as duas naves deixam a atmosfera de Yavin 4 apenas para ficar cara a cara com um Star Destroyer Imperial. Felizmente, o Star Destroyer já está preocupado em transportar outro transporte, permitindo que tanto a sua nave quanto o </i> Freedom Fighter <i> escapem para o hiperespaço. <br/> <br/> Graças aos seus esforços heróicos, todos dos transportes restantes tiveram tempo suficiente para decolar antes que os imperiais pudessem alcançá-los. </i>"
+    "pt": "<i> Quando o último de sua equipe vem a bordo, o pequeno cargueiro decola e dispara para fora do compartimento de ancoragem. Sua nave vem junto com o transporte médio </i> Freedom Fighter <i> e as duas naves deixam a atmosfera de Yavin 4 apenas para ficar cara a cara com um Star Destroyer Imperial. Felizmente, o Star Destroyer já está preocupado em rebocar outro transporte, permitindo que tanto a sua nave quanto o </i> Freedom Fighter <i> escapem para o hiperespaço. <br/> <br/> Graças aos seus esforços heróicos, todos dos transportes restantes tiveram tempo suficiente para decolar antes que os imperiais pudessem alcançá-los. </i>"
   },
   {
     "key": "M_01_WIN_TROOPERS_SAVED",
@@ -197,17 +197,17 @@
   {
     "key": "M_01_LOSS",
     "en": "<i>Battered and beaten, you limp back to your ship with some remaining Rebel troopers covering you. You manage to make it to your ship and wait briefly for the troopers to catch up, but none of them appear. Your pilot is already aboard the ship, ready to take off as soon as everyone else is aboard.</i>",
-    "pt": "<i> Agredido e espancado, você manca de volta para a sua nave com alguns soldados rebeldes remanescentes cobrindo você. Você consegue chegar à sua nave e esperar brevemente para que os soldados se atualizem, mas nenhum deles aparece. Seu piloto já está a bordo da nave, pronto para decolar assim que todos estiverem a bordo. </i>"
+    "pt": "<i> Agredido e espancado, você manca de volta para a sua nave com alguns soldados rebeldes remanescentes cobrindo você. Você consegue chegar à sua nave e espera brevemente para que os soldados te alcancem, mas nenhum deles aparece. Seu piloto já está a bordo da nave, pronto para decolar assim que todos estiverem a bordo. </i>"
   },
   {
     "key": "M_01_LOSS_2",
     "en": "<i>When the last of your team comes aboard, the small freighter takes off and rockets out of the docking bay. Your ship comes alongside the medium transport </i>Freedom Fighter<i> and the two ships leave Yavin 4’s atmosphere only to come face to face with an Imperial Star Destroyer. Fortunately, the Star Destroyer is already preoccupied hauling in another transport, allowing both your ship and the </i>Freedom Fighter<i> to make their escape into hyperspace.<br/><br/>Despite your efforts, {0} transports did not have enough time to launch and were captured before they could get off the ground.</i>",
-    "pt": "<i> Quando o último de sua equipe vem a bordo, o pequeno cargueiro decola e dispara para fora do compartimento de ancoragem. Sua nave vem junto com o transporte médio </i> Freedom Fighter <i> e as duas naves deixam a atmosfera de Yavin 4 apenas para ficar cara a cara com um Star Destroyer Imperial. Felizmente, o Star Destroyer já está preocupado em transportar outro transporte, permitindo que tanto a sua nave quanto o </i> Freedom Fighter <i> escapem para o hiperespaço. <br/> <br/> Apesar de seus esforços, {0} os transportes não tiveram tempo suficiente para serem lançados e foram capturados antes que pudessem decolar. </i>"
+    "pt": "<i> Quando o último de sua equipe vem a bordo, o pequeno cargueiro decola e dispara para fora do compartimento de ancoragem. Sua nave vem junto com o transporte médio </i> Freedom Fighter <i> e as duas naves deixam a atmosfera de Yavin 4 apenas para ficar cara a cara com um Star Destroyer Imperial. Felizmente, o Star Destroyer já está preocupado em rebocar outro transporte, permitindo que tanto a sua nave quanto o </i> Freedom Fighter <i> escapem para o hiperespaço. <br/> <br/> Apesar de seus esforços, {0} os transportes não tiveram tempo suficiente para serem lançados e foram capturados antes que pudessem decolar. </i>"
   },
   {
     "key": "M_01_LOSS_2_SINGULAR",
     "en": "<i>When the last of your team comes aboard, the small freighter takes off and rockets out of the docking bay. Your ship comes alongside the medium transport </i>Freedom Fighter<i> and the two ships leave Yavin 4’s atmosphere only to come face to face with an Imperial Star Destroyer. Fortunately, the Star Destroyer is already preoccupied hauling in another transport, allowing both your ship and the </i>Freedom Fighter<i> to make their escape into hyperspace.<br/><br/>Despite your efforts, one transport did not have enough time to launch and was captured before it could get off the ground.</i>",
-    "pt": "<i> Quando o último de sua equipe vem a bordo, o pequeno cargueiro decola e dispara para fora do compartimento de ancoragem. Sua nave vem junto com o transporte médio </i> Freedom Fighter <i> e as duas naves deixam a atmosfera de Yavin 4 apenas para ficar cara a cara com um Star Destroyer Imperial. Felizmente, o Star Destroyer já está preocupado em transportar outro, permitindo que tanto a sua nave quanto o </i> Freedom Fighter <i> façam sua fuga para o hiperespaço. <br/> <br/> Apesar de seus esforços, um transporte fez não tem tempo suficiente para lançar e foi capturado antes que pudesse decolar. </i>"
+    "pt": "<i> Quando o último de sua equipe vem a bordo, o pequeno cargueiro decola e dispara para fora do compartimento de ancoragem. Sua nave vem junto com o transporte médio </i> Freedom Fighter <i> e as duas naves deixam a atmosfera de Yavin 4 apenas para ficar cara a cara com um Star Destroyer Imperial. Felizmente, o Star Destroyer já está preocupado em rebocar outro, permitindo que tanto a sua nave quanto o </i> Freedom Fighter <i> façam sua fuga para o hiperespaço. <br/> <br/> Apesar de seus esforços, um transporte não teve tempo suficiente para ser lançado e foi capturado antes que pudesse decolar. </i>"
   },
   {
     "key": "M_02_NAME",
@@ -347,7 +347,7 @@
   {
     "key": "M_02_TARGET",
     "en": "the closest Rebel mission token—if a Rebel within 1 space of that token can be the target of the attack, that Rebel becomes the target of the attack",
-    "pt": "a ficha de missão Rebelde mais próxima - se um Rebelde dentro de 1 espaço desse token puder ser o alvo do ataque, esse Rebelde se torna o alvo do ataque"
+    "pt": "a ficha de missão Rebelde mais próxima - se um Rebelde dentro de 1 espaço desse token puder for o alvo do ataque, esse Rebelde se torna o alvo do ataque"
   },
   {
     "key": "M_02_TARGET_DEADLY",
